@@ -1,8 +1,7 @@
-# Lexicon
-
-A clean, elegant website for discovering beautiful, rare, and unusual English words.
-
-![Lexicon Screenshot](https://raw.githubusercontent.com/S1M0N38/lexicon/main/screenshot.png)
+<div align="center">
+  <h1>Lexicon</h1>
+  <img width="910" alt="Lexicon Screenshot" src="https://github.com/user-attachments/assets/cbe6b819-2109-470a-be1a-402eb4765772" />
+</div>
 
 ## Overview
 
