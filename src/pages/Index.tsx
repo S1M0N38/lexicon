@@ -1,8 +1,7 @@
-
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
+import { Link } from "react-router-dom";
 import WordCard from "@/components/WordCard";
 import WordList from "@/components/WordList";
-import GlassPanel from "@/components/GlassPanel";
 import words from "@/data/words";
 import { BookOpen } from "lucide-react";
 
@@ -86,9 +85,9 @@ const Index = () => {
               </span>
               <h2 className="font-serif text-2xl md:text-3xl">Discover more words</h2>
             </div>
-            <a href="/browse" className="text-primary hover:text-primary/80 text-sm font-medium transition-colors">
+            <Link to="/browse" className="text-primary hover:text-primary/80 text-sm font-medium transition-colors">
               View all words →
-            </a>
+            </Link>
           </div>
           
           <WordList words={randomWords} />
