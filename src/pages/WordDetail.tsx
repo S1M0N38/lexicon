@@ -20,18 +20,9 @@ const WordDetail = () => {
       return;
     }
     
-    // Simulate loading for smoother animations
+    // Simplified loading state management
     const timer = setTimeout(() => {
       setIsLoading(false);
-      
-      // Animation for page elements after loading
-      const elements = document.querySelectorAll('.animate-on-load');
-      elements.forEach((element, index) => {
-        setTimeout(() => {
-          element.classList.add('animate-slide-up');
-          element.classList.remove('opacity-0');
-        }, 100 * index);
-      });
     }, 300);
     
     return () => clearTimeout(timer);
@@ -51,13 +42,13 @@ const WordDetail = () => {
       <div className="container px-4 mx-auto max-w-4xl">
         <button 
           onClick={() => navigate(-1)} 
-          className="flex items-center space-x-2 text-sm text-muted-foreground hover:text-foreground transition-colors mb-8 opacity-0 animate-on-load"
+          className="flex items-center space-x-2 text-sm text-muted-foreground hover:text-foreground transition-colors mb-8 animate-fade-in"
         >
           <ArrowLeft className="h-4 w-4" />
           <span>Back</span>
         </button>
         
-        <GlassPanel className="mb-10 opacity-0 animate-on-load">
+        <GlassPanel className="mb-10 animate-fade-in">
           <span className="px-3 py-1 text-sm font-medium rounded-full bg-secondary text-secondary-foreground mb-4 inline-block">
             {word.definitions[0].partOfSpeech}
           </span>
@@ -84,7 +75,7 @@ const WordDetail = () => {
           </div>
         </GlassPanel>
         
-        <div className="space-y-6 opacity-0 animate-on-load">
+        <div className="space-y-6 animate-fade-in">
           <h2 className="text-xl font-serif mb-4">Examples</h2>
           <div className="space-y-4">
             {word.examples.map((example, index) => (
