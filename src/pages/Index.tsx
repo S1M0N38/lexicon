@@ -1,5 +1,5 @@
 
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import WordCard from "@/components/WordCard";
 import WordList from "@/components/WordList";
 import GlassPanel from "@/components/GlassPanel";
@@ -17,8 +17,29 @@ const Index = () => {
     return shuffled.slice(0, count);
   };
   
+  // Get a daily word based on the date
+  const getDailyWord = () => {
+    // Get current date and use it as a seed
+    const today = new Date();
+    const dateString = `${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}`;
+    
+    // Simple hash function to get a number from the date string
+    let hash = 0;
+    for (let i = 0; i < dateString.length; i++) {
+      hash = ((hash << 5) - hash) + dateString.charCodeAt(i);
+      hash |= 0; // Convert to 32bit integer
+    }
+    
+    // Use absolute value of hash to get a positive index
+    const index = Math.abs(hash) % words.length;
+    return words[index];
+  };
+  
   // Select random words on each render
   const randomWords = getRandomWords();
+  
+  // Get the daily word
+  const dailyWord = getDailyWord();
 
   useEffect(() => {
     // Animation for page elements on load
@@ -33,38 +54,35 @@ const Index = () => {
 
   return (
     <div className="min-h-screen">
-      {/* Hero section */}
+      {/* Hero section - minimalist with daily word */}
       <section className="pt-32 pb-20 relative">
         <div className="absolute inset-0 bg-gradient-to-br from-blue-50 to-white -z-10" />
         <div className="container px-4 mx-auto max-w-6xl">
           <div className="opacity-0 animate-on-load">
             <span className="px-3 py-1 text-sm font-medium rounded-full bg-blue-100 text-blue-800 mb-6 inline-block">
-              Uncommon English
+              Word of the Day
             </span>
           </div>
           <h1 className="font-serif text-4xl md:text-6xl mb-4 opacity-0 animate-on-load">
-            Expand your lexicon with <br className="hidden md:block" />
-            <span className="text-primary">uncommon words</span>
+            Expand your lexicon
           </h1>
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mb-12 opacity-0 animate-on-load">
-            Discover beautiful, rare, and unusual English words, their definitions, and how to use them in sentences.
+            Discover beautiful, rare, and unusual English words.
           </p>
           
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 opacity-0 animate-on-load">
-            {featuredWords.map((word, index) => (
-              <WordCard key={word.id} word={word} featured />
-            ))}
+          <div className="opacity-0 animate-on-load max-w-2xl mx-auto">
+            <WordCard word={dailyWord} featured className="mb-8" />
           </div>
         </div>
       </section>
 
-      {/* More words section */}
+      {/* Random words section */}
       <section className="py-20 bg-white relative">
         <div className="container px-4 mx-auto max-w-6xl">
           <div className="flex justify-between items-end mb-10">
             <div>
               <span className="px-3 py-1 text-sm font-medium rounded-full bg-secondary text-secondary-foreground mb-3 inline-block">
-                Vocabulary
+                Random Words
               </span>
               <h2 className="font-serif text-2xl md:text-3xl">Discover more words</h2>
             </div>
@@ -74,59 +92,6 @@ const Index = () => {
           </div>
           
           <WordList words={randomWords} />
-        </div>
-      </section>
-
-      {/* About section */}
-      <section className="py-20 bg-gray-50 relative">
-        <div className="container px-4 mx-auto max-w-6xl">
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
-            <div>
-              <span className="px-3 py-1 text-sm font-medium rounded-full bg-secondary text-secondary-foreground mb-3 inline-block">
-                About
-              </span>
-              <h2 className="font-serif text-2xl md:text-3xl mb-4">Why learn uncommon words?</h2>
-              <p className="text-muted-foreground mb-6">
-                Unusual and rare words add depth, precision, and color to your language. They allow you to express complex ideas more accurately and make your writing more vivid and engaging.
-              </p>
-              <ul className="space-y-3">
-                {[
-                  "Enhance your writing with precise vocabulary",
-                  "Express complex concepts more accurately",
-                  "Appreciate the richness of the English language",
-                  "Impress others with your lexical knowledge"
-                ].map((item, i) => (
-                  <li key={i} className="flex items-start">
-                    <div className="flex-shrink-0 h-5 w-5 rounded-full bg-primary/10 flex items-center justify-center mt-0.5 mr-3">
-                      <div className="h-1.5 w-1.5 rounded-full bg-primary"></div>
-                    </div>
-                    <span className="text-sm">{item}</span>
-                  </li>
-                ))}
-              </ul>
-            </div>
-            <div>
-              <GlassPanel className="md:p-8">
-                <div className="flex justify-center mb-6">
-                  <div className="h-16 w-16 rounded-full bg-primary/10 flex items-center justify-center">
-                    <BookOpen className="h-8 w-8 text-primary" />
-                  </div>
-                </div>
-                <h3 className="font-serif text-xl text-center mb-6">Begin your journey</h3>
-                <p className="text-center text-muted-foreground mb-6">
-                  Start exploring our collection of carefully selected uncommon English words.
-                </p>
-                <div className="flex justify-center">
-                  <a 
-                    href="/browse" 
-                    className="inline-flex items-center justify-center rounded-md bg-primary px-6 py-3 text-sm font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
-                  >
-                    Browse Words
-                  </a>
-                </div>
-              </GlassPanel>
-            </div>
-          </div>
         </div>
       </section>
 
