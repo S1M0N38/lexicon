@@ -9,8 +9,16 @@ import { BookOpen } from "lucide-react";
 const Index = () => {
   // Get featured words
   const featuredWords = words.filter(word => word.isFeatured);
-  // Get other words (not featured)
-  const otherWords = words.filter(word => !word.isFeatured).slice(0, 6);
+  
+  // Get random words (not featured)
+  const getRandomWords = (count = 3) => {
+    const nonFeaturedWords = words.filter(word => !word.isFeatured);
+    const shuffled = [...nonFeaturedWords].sort(() => 0.5 - Math.random());
+    return shuffled.slice(0, count);
+  };
+  
+  // Select random words on each render
+  const randomWords = getRandomWords();
 
   useEffect(() => {
     // Animation for page elements on load
@@ -65,7 +73,7 @@ const Index = () => {
             </a>
           </div>
           
-          <WordList words={otherWords} />
+          <WordList words={randomWords} />
         </div>
       </section>
 
