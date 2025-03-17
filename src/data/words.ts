@@ -19,6 +19,7 @@ export interface Word {
   definitions: WordDefinition[];
   examples: string[];
   isFeatured?: boolean;
+  audioUrl?: string;
 }
 
 export default words as Word[];

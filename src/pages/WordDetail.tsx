@@ -1,6 +1,6 @@
-import { useEffect } from "react";
+import { useEffect, useRef, useState } from "react";
 import { useParams, useNavigate } from "react-router-dom";
-import { ArrowLeft } from "lucide-react";
+import { ArrowLeft, Volume2 } from "lucide-react";
 import words from "@/data/words";
 import GlassPanel from "@/components/GlassPanel";
 import { cn } from "@/lib/utils";
@@ -8,6 +8,8 @@ import { cn } from "@/lib/utils";
 const WordDetail = () => {
   const { wordId } = useParams<{ wordId: string }>();
   const navigate = useNavigate();
+  const audioRef = useRef<HTMLAudioElement | null>(null);
+  const [isPlaying, setIsPlaying] = useState(false);
 
   const word = words.find((w) => w.id === wordId);
 
@@ -17,6 +19,39 @@ const WordDetail = () => {
       navigate("/404", { replace: true });
     }
   }, [word, navigate]);
+
+  const playAudio = () => {
+    if (!word?.audioUrl) return;
+
+    if (!audioRef.current) {
+      audioRef.current = new Audio(word.audioUrl);
+      audioRef.current.addEventListener("ended", () => {
+        setIsPlaying(false);
+      });
+    }
+
+    if (isPlaying) {
+      audioRef.current.pause();
+      audioRef.current.currentTime = 0;
+      setIsPlaying(false);
+    } else {
+      audioRef.current.play().catch((error) => {
+        console.error("Error playing audio:", error);
+        setIsPlaying(false);
+      });
+      setIsPlaying(true);
+    }
+  };
+
+  // Cleanup audio on unmount
+  useEffect(() => {
+    return () => {
+      if (audioRef.current) {
+        audioRef.current.pause();
+        audioRef.current = null;
+      }
+    };
+  }, []);
 
   if (!word) {
     return null; // Return null instead of loading state
@@ -39,7 +74,25 @@ const WordDetail = () => {
             {word.definitions[0].partOfSpeech}
           </span>
           <h1 className="font-serif text-4xl md:text-5xl mb-3">{word.word}</h1>
-          <p className="text-muted-foreground mb-6">{word.pronunciation}</p>
+
+          <div className="flex items-center mb-6">
+            <p className="text-muted-foreground">{word.pronunciation}</p>
+            {word.audioUrl && (
+              <button
+                onClick={playAudio}
+                className={cn(
+                  "ml-2 p-2 rounded-full transition-colors",
+                  isPlaying
+                    ? "bg-primary text-primary-foreground"
+                    : "hover:bg-muted/80",
+                )}
+                aria-label="Play pronunciation"
+                title="Listen to pronunciation"
+              >
+                <Volume2 className="h-4 w-4" />
+              </button>
+            )}
+          </div>
 
           <div className="space-y-6">
             <div>

@@ -2,7 +2,7 @@
   {
     "id": "abecedarian",
     "word": "Abecedarian",
-    "pronunciation": "/ˌeɪbiːsiːˈdɛəriən/",
+    "pronunciation": "/\u02cce\u026abi\u02d0si\u02d0\u02c8d\u025b\u0259ri\u0259n/",
     "definitions": [
       {
         "definition": "Arranged alphabetically.",
@@ -17,12 +17,13 @@
       "The poet wrote an abecedarian verse with each line beginning with a consecutive letter of the alphabet.",
       "As an abecedarian in quantum physics, she found the introductory textbook challenging but fascinating.",
       "The abecedarian organization of the encyclopedia made it easy to locate specific entries."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abeced01.mp3"
   },
   {
     "id": "abibliophobia",
     "word": "Abibliophobia",
-    "pronunciation": "/eɪˌbɪbliəˈfəʊbiə/",
+    "pronunciation": "/e\u026a\u02ccb\u026abli\u0259\u02c8f\u0259\u028abi\u0259/",
     "definitions": [
       {
         "definition": "The fear of running out of reading material.",
@@ -38,7 +39,7 @@
   {
     "id": "absquatulate",
     "word": "Absquatulate",
-    "pronunciation": "/æbˈskwɒtʃəleɪt/",
+    "pronunciation": "/\u00e6b\u02c8skw\u0252t\u0283\u0259le\u026at/",
     "definitions": [
       {
         "definition": "To leave suddenly and without explanation; to depart in a hurry.",
@@ -55,7 +56,7 @@
   {
     "id": "abstemious",
     "word": "Abstemious",
-    "pronunciation": "/əbˈstiːmiəs/",
+    "pronunciation": "/\u0259b\u02c8sti\u02d0mi\u0259s/",
     "definitions": [
       {
         "definition": "Not self-indulgent, especially when eating and drinking.",
@@ -66,12 +67,13 @@
       "Her abstemious lifestyle included a plant-based diet and no alcohol.",
       "The monk lived an abstemious existence, consuming only what was necessary for survival.",
       "Despite the lavish banquet, he remained abstemious, taking only small portions."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abstem01.mp3"
   },
   {
     "id": "acatalepsy",
     "word": "Acatalepsy",
-    "pronunciation": "/ˌækəˈtælɪpsi/",
+    "pronunciation": "/\u02cc\u00e6k\u0259\u02c8t\u00e6l\u026apsi/",
     "definitions": [
       {
         "definition": "The impossibility of comprehending or knowing something with certainty.",
@@ -87,7 +89,7 @@
   {
     "id": "aeonian",
     "word": "Aeonian",
-    "pronunciation": "/eɪˈoʊniən/",
+    "pronunciation": "/e\u026a\u02c8o\u028ani\u0259n/",
     "definitions": [
       {
         "definition": "Lasting for an immeasurably long period of time; eternal.",
@@ -98,12 +100,13 @@
       "The ancient redwoods seemed aeonian, having witnessed centuries of human history.",
       "The lovers vowed aeonian devotion to each other in their handwritten wedding vows.",
       "Geologists study processes that occur on an aeonian timescale, far beyond human comprehension."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aeonia01.mp3"
   },
   {
     "id": "agastopia",
     "word": "Agastopia",
-    "pronunciation": "/ˌæɡəˈstoʊpiə/",
+    "pronunciation": "/\u02cc\u00e6\u0261\u0259\u02c8sto\u028api\u0259/",
     "definitions": [
       {
         "definition": "Admiration of a particular part of someone's body.",
@@ -120,7 +123,7 @@
   {
     "id": "agathokakological",
     "word": "Agathokakological",
-    "pronunciation": "/əˌɡæθəʊkækəˈlɒdʒɪkəl/",
+    "pronunciation": "/\u0259\u02cc\u0261\u00e6\u03b8\u0259\u028ak\u00e6k\u0259\u02c8l\u0252d\u0292\u026ak\u0259l/",
     "definitions": [
       {
         "definition": "Composed of both good and evil.",
@@ -137,7 +140,7 @@
   {
     "id": "ailurophile",
     "word": "Ailurophile",
-    "pronunciation": "/aɪˈlʊərəfaɪl/",
+    "pronunciation": "/a\u026a\u02c8l\u028a\u0259r\u0259fa\u026al/",
     "definitions": [
       {
         "definition": "A cat lover.",
@@ -146,14 +149,15 @@
     ],
     "examples": [
       "As an ailurophile, she couldn't resist adopting yet another rescue cat.",
-      "The café was designed specifically for ailurophiles who wanted to enjoy coffee in feline company.",
+      "The caf\u00e9 was designed specifically for ailurophiles who wanted to enjoy coffee in feline company.",
       "Ancient Egyptians were known ailurophiles, even worshipping cats as sacred animals."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ailuro01.mp3"
   },
   {
     "id": "akrasia",
     "word": "Akrasia",
-    "pronunciation": "/əˈkreɪziə/",
+    "pronunciation": "/\u0259\u02c8kre\u026azi\u0259/",
     "definitions": [
       {
         "definition": "The state of mind in which someone acts against their better judgment through weakness of will.",
@@ -163,14 +167,14 @@
     "examples": [
       "Though he knew he should be studying, akrasia led him to binge-watch another season of the show.",
       "The philosophy course examined akrasia as a central problem in understanding human behavior.",
-      "Her repeated financial problems were less about ignorance and more about akrasia—she knew what she should do but couldn't bring herself to do it."
+      "Her repeated financial problems were less about ignorance and more about akrasia\u2014she knew what she should do but couldn't bring herself to do it."
     ],
     "isFeatured": true
   },
   {
     "id": "alexithymia",
     "word": "Alexithymia",
-    "pronunciation": "/əˌlɛksɪˈθaɪmiə/",
+    "pronunciation": "/\u0259\u02ccl\u025bks\u026a\u02c8\u03b8a\u026ami\u0259/",
     "definitions": [
       {
         "definition": "The inability to identify and describe emotions in oneself or others.",
@@ -181,12 +185,13 @@
       "His alexithymia made it difficult for him to understand why his comments had upset his partner.",
       "The psychology course discussed alexithymia as a common feature in certain neurological conditions.",
       "She worked with a therapist to overcome her alexithymia and develop a richer emotional vocabulary."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/alexi06m.mp3"
   },
   {
     "id": "anagnorisis",
     "word": "Anagnorisis",
-    "pronunciation": "/ˌænəɡˈnɒrɪsɪs/",
+    "pronunciation": "/\u02cc\u00e6n\u0259\u0261\u02c8n\u0252r\u026as\u026as/",
     "definitions": [
       {
         "definition": "The moment in a play or story when a character makes a critical discovery or has a critical realization.",
@@ -197,12 +202,13 @@
       "The protagonist's anagnorisis occurs when she finally understands the true intentions of her mentor.",
       "In Oedipus Rex, the anagnorisis is particularly devastating as Oedipus realizes his true identity.",
       "The film builds slowly toward an anagnorisis that forces the audience to reconsider everything they've seen."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anagno01.mp3"
   },
   {
     "id": "anchorite",
     "word": "Anchorite",
-    "pronunciation": "/ˈæŋkəraɪt/",
+    "pronunciation": "/\u02c8\u00e6\u014bk\u0259ra\u026at/",
     "definitions": [
       {
         "definition": "A religious recluse; someone who has withdrawn from secular society to lead a life of prayer and contemplation.",
@@ -213,12 +219,13 @@
       "The anchorite lived in a small cell attached to the church for over twenty years.",
       "Medieval anchorites often took vows never to leave their dwelling place.",
       "Unlike cenobitic monks who lived in communities, anchorites chose complete solitude for their spiritual practice."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anchor07.mp3"
   },
   {
     "id": "anecdata",
     "word": "Anecdata",
-    "pronunciation": "/ˌænɪkˈdeɪtə/",
+    "pronunciation": "/\u02cc\u00e6n\u026ak\u02c8de\u026at\u0259/",
     "definitions": [
       {
         "definition": "Information which is presented as if based on scientific research or systematic data collection but is in fact based on personal observation or experience, often involving instances selected to confirm a particular bias.",
@@ -235,7 +242,7 @@
   {
     "id": "anfractuous",
     "word": "Anfractuous",
-    "pronunciation": "/ænˈfræktʃuəs/",
+    "pronunciation": "/\u00e6n\u02c8fr\u00e6kt\u0283u\u0259s/",
     "definitions": [
       {
         "definition": "Winding or circuitous; full of twists and turns.",
@@ -246,12 +253,13 @@
       "The anfractuous mountain road made the journey twice as long as the straight-line distance would suggest.",
       "Her explanation was so anfractuous that everyone lost track of her original point.",
       "The anfractuous tunnels of the ancient catacomb confused even experienced guides."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anfrac02.mp3"
   },
   {
     "id": "anodyne",
     "word": "Anodyne",
-    "pronunciation": "/ˈænədaɪn/",
+    "pronunciation": "/\u02c8\u00e6n\u0259da\u026an/",
     "definitions": [
       {
         "definition": "Not likely to provoke dissent or offense; inoffensive, often deliberately so.",
@@ -266,12 +274,13 @@
       "The politician gave an anodyne statement that avoided addressing the controversy directly.",
       "Traditional anodynes like willow bark contain natural salicylates similar to aspirin.",
       "The gallery displayed pleasant but anodyne landscapes that wouldn't challenge any viewer."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anodyn01.mp3"
   },
   {
     "id": "antediluvian",
     "word": "Antediluvian",
-    "pronunciation": "/ˌæntɪdɪˈluːviən/",
+    "pronunciation": "/\u02cc\u00e6nt\u026ad\u026a\u02c8lu\u02d0vi\u0259n/",
     "definitions": [
       {
         "definition": "Of or belonging to the time before the biblical Flood.",
@@ -286,12 +295,13 @@
       "The professor's antediluvian views on gender roles had no place in the modern classroom.",
       "The museum contained fossils of antediluvian creatures that roamed the earth millions of years ago.",
       "Her grandmother's house was filled with antediluvian furniture and technology from another era."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/antedi01.mp3"
   },
   {
     "id": "apophenia",
     "word": "Apophenia",
-    "pronunciation": "/ˌæpəˈfiːniə/",
+    "pronunciation": "/\u02cc\u00e6p\u0259\u02c8fi\u02d0ni\u0259/",
     "definitions": [
       {
         "definition": "The tendency to perceive meaningful connections between unrelated things.",
@@ -303,12 +313,13 @@
       "The researcher cautioned against apophenia when looking for patterns in the data.",
       "Gamblers frequently exhibit apophenia, believing they can detect patterns in truly random outcomes."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/apophe01.mp3"
   },
   {
     "id": "aposiopesis",
     "word": "Aposiopesis",
-    "pronunciation": "/ˌæpəsaɪəˈpiːsɪs/",
+    "pronunciation": "/\u02cc\u00e6p\u0259sa\u026a\u0259\u02c8pi\u02d0s\u026as/",
     "definitions": [
       {
         "definition": "A rhetorical device in which the speaker suddenly breaks off in the middle of a sentence, leaving the sense unfinished.",
@@ -320,12 +331,13 @@
       "Shakespeare used aposiopesis effectively to convey overwhelming emotion in his plays.",
       "The politician employed aposiopesis in his speech, allowing listeners to imagine the dire consequences he left unstated."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aposio01.mp3"
   },
   {
     "id": "apricate",
     "word": "Apricate",
-    "pronunciation": "/ˈæprɪkeɪt/",
+    "pronunciation": "/\u02c8\u00e6pr\u026ake\u026at/",
     "definitions": [
       {
         "definition": "To bask in the sun.",
@@ -341,7 +353,7 @@
   {
     "id": "apricity",
     "word": "Apricity",
-    "pronunciation": "/əˈprɪsɪti/",
+    "pronunciation": "/\u0259\u02c8pr\u026as\u026ati/",
     "definitions": [
       {
         "definition": "The warmth of the sun in winter.",
@@ -358,7 +370,7 @@
   {
     "id": "arachibutyrophobia",
     "word": "Arachibutyrophobia",
-    "pronunciation": "/əˌrækɪbjʊtɪrəˈfəʊbiə/",
+    "pronunciation": "/\u0259\u02ccr\u00e6k\u026abj\u028at\u026ar\u0259\u02c8f\u0259\u028abi\u0259/",
     "definitions": [
       {
         "definition": "The fear of peanut butter sticking to the roof of the mouth.",
@@ -375,7 +387,7 @@
   {
     "id": "aubade",
     "word": "Aubade",
-    "pronunciation": "/əʊˈbɑːd/",
+    "pronunciation": "/\u0259\u028a\u02c8b\u0251\u02d0d/",
     "definitions": [
       {
         "definition": "A poem or piece of music appropriate to the dawn or early morning.",
@@ -390,12 +402,13 @@
       "The composer's aubade captured the gentle optimism of daybreak.",
       "John Donne's poem 'The Sun Rising' is a classic example of an aubade.",
       "She performed the traditional aubade from her balcony as the sun rose over the city."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aubade01.mp3"
   },
   {
     "id": "aureate",
     "word": "Aureate",
-    "pronunciation": "/ˈɔːriət/",
+    "pronunciation": "/\u02c8\u0254\u02d0ri\u0259t/",
     "definitions": [
       {
         "definition": "Golden or gilded.",
@@ -410,12 +423,13 @@
       "The cathedral's aureate dome gleamed in the morning sunlight.",
       "His aureate prose style, while impressive, sometimes obscured his actual meaning.",
       "The autumn forest was transformed into an aureate wonderland as the leaves changed color."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aureat01.mp3"
   },
   {
     "id": "autolatry",
     "word": "Autolatry",
-    "pronunciation": "/ɔːˈtɒlətri/",
+    "pronunciation": "/\u0254\u02d0\u02c8t\u0252l\u0259tri/",
     "definitions": [
       {
         "definition": "The worship of oneself; excessive self-worship.",
@@ -431,7 +445,7 @@
   {
     "id": "balter",
     "word": "Balter",
-    "pronunciation": "/ˈbɔːltər/",
+    "pronunciation": "/\u02c8b\u0254\u02d0lt\u0259r/",
     "definitions": [
       {
         "definition": "To dance artlessly, without particular grace or skill but usually with enjoyment.",
@@ -448,7 +462,7 @@
   {
     "id": "basorexia",
     "word": "Basorexia",
-    "pronunciation": "/ˌbeɪsəˈrɛksiə/",
+    "pronunciation": "/\u02ccbe\u026as\u0259\u02c8r\u025bksi\u0259/",
     "definitions": [
       {
         "definition": "An overwhelming urge to kiss.",
@@ -465,7 +479,7 @@
   {
     "id": "biblioclasm",
     "word": "Biblioclasm",
-    "pronunciation": "/ˈbɪbliəʊklæzəm/",
+    "pronunciation": "/\u02c8b\u026abli\u0259\u028akl\u00e6z\u0259m/",
     "definitions": [
       {
         "definition": "The deliberate destruction of books.",
@@ -482,7 +496,7 @@
   {
     "id": "biblioklept",
     "word": "Biblioklept",
-    "pronunciation": "/ˈbɪbliəklɛpt/",
+    "pronunciation": "/\u02c8b\u026abli\u0259kl\u025bpt/",
     "definitions": [
       {
         "definition": "One who steals books.",
@@ -498,7 +512,7 @@
   {
     "id": "bibliophile",
     "word": "Bibliophile",
-    "pronunciation": "/ˈbɪbliəfʌɪl/",
+    "pronunciation": "/\u02c8b\u026abli\u0259f\u028c\u026al/",
     "definitions": [
       {
         "definition": "A person who has a great love for books or reading.",
@@ -509,12 +523,13 @@
       "As a dedicated bibliophile, he spent most weekends browsing secondhand bookshops.",
       "The rare book auction attracted bibliophiles from around the world.",
       "Her apartment revealed her as a bibliophile, with bookshelves covering every available wall."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/biblio16.mp3"
   },
   {
     "id": "blandishment",
     "word": "Blandishment",
-    "pronunciation": "/ˈblændɪʃmənt/",
+    "pronunciation": "/\u02c8bl\u00e6nd\u026a\u0283m\u0259nt/",
     "definitions": [
       {
         "definition": "Flattery or cajolery; something that tends to coax or flatter.",
@@ -525,12 +540,13 @@
       "All his blandishments failed to convince her to change her mind.",
       "The salesperson used expert blandishments to persuade customers to upgrade their purchases.",
       "She was immune to the blandishments of fame and fortune."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/blandi02.mp3"
   },
   {
     "id": "blatherskite",
     "word": "Blatherskite",
-    "pronunciation": "/ˈblæðəskaɪt/",
+    "pronunciation": "/\u02c8bl\u00e6\u00f0\u0259ska\u026at/",
     "definitions": [
       {
         "definition": "A person who talks at great length without making much sense.",
@@ -545,12 +561,13 @@
       "The office blatherskite dominated meetings with long-winded, meaningless contributions.",
       "She had no patience for political blatherskite that avoided addressing the actual issues.",
       "What began as a formal debate quickly devolved into blatherskite from both parties."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/blathe04.mp3"
   },
   {
     "id": "bloviate",
     "word": "Bloviate",
-    "pronunciation": "/ˈbləʊvieɪt/",
+    "pronunciation": "/\u02c8bl\u0259\u028avie\u026at/",
     "definitions": [
       {
         "definition": "To talk at length, especially in an inflated or empty way.",
@@ -561,12 +578,13 @@
       "The politician was known to bloviate rather than address questions directly.",
       "He tends to bloviate about his accomplishments at every social gathering.",
       "The professor would bloviate for the first twenty minutes of each lecture before getting to the main topic."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/blovi01s.mp3"
   },
   {
     "id": "borborygmus",
     "word": "Borborygmus",
-    "pronunciation": "/ˌbɔːrbəˈrɪɡməs/",
+    "pronunciation": "/\u02ccb\u0254\u02d0rb\u0259\u02c8r\u026a\u0261m\u0259s/",
     "definitions": [
       {
         "definition": "A rumbling or gurgling noise made by the movement of fluid and gas in the intestines.",
@@ -578,12 +596,13 @@
       "The doctor explained that occasional borborygmus is a normal digestive function.",
       "Her meditation was interrupted by persistent borborygmus, reminding her it was lunchtime."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/borbor01.mp3"
   },
   {
     "id": "brabble",
     "word": "Brabble",
-    "pronunciation": "/ˈbræbl/",
+    "pronunciation": "/\u02c8br\u00e6bl/",
     "definitions": [
       {
         "definition": "A noisy quarrel about trifles; a squabble.",
@@ -598,12 +617,13 @@
       "What started as a minor disagreement quickly devolved into a brabble that disrupted the entire meeting.",
       "The siblings brabbled constantly over who would sit in the front seat of the car.",
       "She had no patience for political brabble that ignored substantive policy issues."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/brabbl01.mp3"
   },
   {
     "id": "bromidic",
     "word": "Bromidic",
-    "pronunciation": "/brəʊˈmɪdɪk/",
+    "pronunciation": "/br\u0259\u028a\u02c8m\u026ad\u026ak/",
     "definitions": [
       {
         "definition": "Commonplace; trite; consisting of bromides.",
@@ -614,12 +634,13 @@
       "The graduation speech was filled with bromidic advice about following one's dreams.",
       "His bromidic observations about the weather failed to spark any interesting conversation.",
       "She avoided bromidic phrases in her writing, preferring fresh and original expressions."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/bromid02.mp3"
   },
   {
     "id": "bruxism",
     "word": "Bruxism",
-    "pronunciation": "/ˈbrʌksɪzəm/",
+    "pronunciation": "/\u02c8br\u028cks\u026az\u0259m/",
     "definitions": [
       {
         "definition": "The involuntary habitual grinding of the teeth, typically during sleep.",
@@ -630,12 +651,13 @@
       "Her dentist recommended a night guard to prevent damage from bruxism.",
       "Stress and anxiety can exacerbate bruxism in susceptible individuals.",
       "He wasn't aware of his bruxism until his partner complained about the grinding noise at night."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/bruxis01.mp3"
   },
   {
     "id": "bumbershoot",
     "word": "Bumbershoot",
-    "pronunciation": "/ˈbʌmbəʃuːt/",
+    "pronunciation": "/\u02c8b\u028cmb\u0259\u0283u\u02d0t/",
     "definitions": [
       {
         "definition": "An umbrella.",
@@ -646,12 +668,13 @@
       "She grabbed her bumbershoot before heading out into the rainy Seattle afternoon.",
       "The vintage store sold colorful bumbershoots with carved wooden handles.",
       "The annual Bumbershoot Festival in Seattle was named after the colloquial term for a rain umbrella."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/bumber01.mp3"
   },
   {
     "id": "bumfuzzle",
     "word": "Bumfuzzle",
-    "pronunciation": "/ˈbʌmfʌzəl/",
+    "pronunciation": "/\u02c8b\u028cmf\u028cz\u0259l/",
     "definitions": [
       {
         "definition": "To confuse or fluster.",
@@ -667,7 +690,7 @@
   {
     "id": "cacoethes",
     "word": "Cacoethes",
-    "pronunciation": "/ˌkækəʊˈiːθiːz/",
+    "pronunciation": "/\u02cck\u00e6k\u0259\u028a\u02c8i\u02d0\u03b8i\u02d0z/",
     "definitions": [
       {
         "definition": "An irresistible urge; a mania.",
@@ -675,15 +698,16 @@
       }
     ],
     "examples": [
-      "He suffered from cacoethes scribendi—an overwhelming urge to write.",
+      "He suffered from cacoethes scribendi\u2014an overwhelming urge to write.",
       "Her cacoethes for collecting rare books had filled every available shelf in her home.",
       "The composer's cacoethes resulted in fourteen symphonies written in just three years."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cacoet01.mp3"
   },
   {
     "id": "callipygian",
     "word": "Callipygian",
-    "pronunciation": "/ˌkælɪˈpɪdʒiən/",
+    "pronunciation": "/\u02cck\u00e6l\u026a\u02c8p\u026ad\u0292i\u0259n/",
     "definitions": [
       {
         "definition": "Having well-shaped buttocks.",
@@ -694,12 +718,13 @@
       "The ancient Greek statue was celebrated for its callipygian subject.",
       "The fitness instructor promised callipygian results from following the specialized exercise regimen.",
       "Art historians note that standards for callipygian beauty have varied across cultures and time periods."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/callip01.mp3"
   },
   {
     "id": "cantankerous",
     "word": "Cantankerous",
-    "pronunciation": "/kænˈtæŋkərəs/",
+    "pronunciation": "/k\u00e6n\u02c8t\u00e6\u014bk\u0259r\u0259s/",
     "definitions": [
       {
         "definition": "Bad-tempered, argumentative, and uncooperative.",
@@ -710,12 +735,13 @@
       "The cantankerous old man shouted at children who ventured near his property.",
       "She became increasingly cantankerous as the meeting dragged on without resolution.",
       "The reviewer was known for his cantankerous critiques of even the most popular restaurants."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cantan01.mp3"
   },
   {
     "id": "casuistry",
     "word": "Casuistry",
-    "pronunciation": "/ˈkæzjʊɪstri/",
+    "pronunciation": "/\u02c8k\u00e6zj\u028a\u026astri/",
     "definitions": [
       {
         "definition": "The use of clever but unsound reasoning, especially in relation to moral questions; sophistry.",
@@ -727,12 +753,13 @@
       "The debate devolved into casuistry when participants began twisting definitions to support their positions.",
       "Medieval theologians developed casuistry to resolve complex moral dilemmas by applying general principles to specific cases."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/casuis04.mp3"
   },
   {
     "id": "chatoyant",
     "word": "Chatoyant",
-    "pronunciation": "/ʃəˈtɔɪənt/",
+    "pronunciation": "/\u0283\u0259\u02c8t\u0254\u026a\u0259nt/",
     "definitions": [
       {
         "definition": "(Of a gemstone) having a changeable luster or color with an undulating narrow band of white light.",
@@ -748,12 +775,13 @@
       "The interior designer chose chatoyant silk fabrics that shifted color as visitors moved through the room.",
       "Her chatoyant eyes seemed to change from green to gold depending on the light."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/chatoy03.mp3"
   },
   {
     "id": "chiaroscuro",
     "word": "Chiaroscuro",
-    "pronunciation": "/kiˌɑːrəˈskjʊərəʊ/",
+    "pronunciation": "/ki\u02cc\u0251\u02d0r\u0259\u02c8skj\u028a\u0259r\u0259\u028a/",
     "definitions": [
       {
         "definition": "The treatment of light and shade in drawing and painting.",
@@ -768,12 +796,13 @@
       "Rembrandt was a master of chiaroscuro, using dramatic lighting to create depth and mood.",
       "The black and white film used chiaroscuro techniques to enhance its noir atmosphere.",
       "The photographer's portraits featured striking chiaroscuro that highlighted the subject's facial structure."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/chiaro02.mp3"
   },
   {
     "id": "cicisbeo",
     "word": "Cicisbeo",
-    "pronunciation": "/ˌtʃɪtʃɪzˈbeɪəʊ/",
+    "pronunciation": "/\u02cct\u0283\u026at\u0283\u026az\u02c8be\u026a\u0259\u028a/",
     "definitions": [
       {
         "definition": "A married woman's male companion or lover in 18th-century Italy.",
@@ -784,12 +813,13 @@
       "The historical novel depicted the complex social role of the cicisbeo in Venetian society.",
       "The countess appeared at the opera with her husband on one arm and her cicisbeo on the other.",
       "The institution of the cicisbeo was a formalized aspect of aristocratic Italian life, though it scandalized foreign visitors."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cicisb01.mp3"
   },
   {
     "id": "clerihew",
     "word": "Clerihew",
-    "pronunciation": "/ˈklɛrɪhjuː/",
+    "pronunciation": "/\u02c8kl\u025br\u026ahju\u02d0/",
     "definitions": [
       {
         "definition": "A short comic or nonsensical verse, typically in two rhyming couplets with lines of unequal length and about a famous person.",
@@ -800,12 +830,13 @@
       "She won the literary competition with a clerihew about Einstein.",
       "His birthday card contained a personalized clerihew that perfectly captured his personality.",
       "Edmund Clerihew Bentley invented the clerihew in 1890 while still a 16-year-old schoolboy."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/clerih01.mp3"
   },
   {
     "id": "clinomania",
     "word": "Clinomania",
-    "pronunciation": "/ˌklɪnəʊˈmeɪniə/",
+    "pronunciation": "/\u02cckl\u026an\u0259\u028a\u02c8me\u026ani\u0259/",
     "definitions": [
       {
         "definition": "An excessive desire to stay in bed; an abnormal desire for rest.",
@@ -822,7 +853,7 @@
   {
     "id": "collywobbles",
     "word": "Collywobbles",
-    "pronunciation": "/ˈkɒliwɒblz/",
+    "pronunciation": "/\u02c8k\u0252liw\u0252blz/",
     "definitions": [
       {
         "definition": "A state of intestinal disorder, usually accompanied by a rumbling stomach.",
@@ -837,12 +868,13 @@
       "Public speaking always gave him a bad case of the collywobbles.",
       "She complained of collywobbles after eating the questionable street food.",
       "The anticipation of the job interview gave her collywobbles all morning."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/collyw01.mp3"
   },
   {
     "id": "compathy",
     "word": "Compathy",
-    "pronunciation": "/ˈkɒmpəθi/",
+    "pronunciation": "/\u02c8k\u0252mp\u0259\u03b8i/",
     "definitions": [
       {
         "definition": "A shared feeling or experience of suffering; the ability to share in or have a communal understanding of another's emotional state.",
@@ -859,7 +891,7 @@
   {
     "id": "compunction",
     "word": "Compunction",
-    "pronunciation": "/kəmˈpʌŋkʃən/",
+    "pronunciation": "/k\u0259m\u02c8p\u028c\u014bk\u0283\u0259n/",
     "definitions": [
       {
         "definition": "A feeling of guilt or moral scruple that prevents or follows the doing of something bad.",
@@ -870,12 +902,13 @@
       "He felt no compunction about lying to protect his friend.",
       "The executioner carried out his duties without compunction.",
       "Her compunction over the harsh words led her to apologize immediately."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compun01.mp3"
   },
   {
     "id": "concinnity",
     "word": "Concinnity",
-    "pronunciation": "/kənˈsɪnɪti/",
+    "pronunciation": "/k\u0259n\u02c8s\u026an\u026ati/",
     "definitions": [
       {
         "definition": "Elegant arrangement or harmony of the different parts of something, especially in literary works.",
@@ -886,12 +919,13 @@
       "The poem displayed remarkable concinnity, with each verse building perfectly upon the last.",
       "The architect's design was praised for its concinnity of form and function.",
       "Despite covering complex topics, her writing maintains a concinnity that makes it accessible and pleasant to read."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/concin01.mp3"
   },
   {
     "id": "conflate",
     "word": "Conflate",
-    "pronunciation": "/kənˈfleɪt/",
+    "pronunciation": "/k\u0259n\u02c8fle\u026at/",
     "definitions": [
       {
         "definition": "To combine or blend two or more elements into a whole.",
@@ -906,12 +940,13 @@
       "The student's essay conflated several different philosophical concepts, causing confusion.",
       "Media reports often conflate correlation with causation.",
       "The artwork conflated classical and modern imagery to create something surprisingly harmonious."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/confla03.mp3"
   },
   {
     "id": "coruscate",
     "word": "Coruscate",
-    "pronunciation": "/ˈkɒrəskeɪt/",
+    "pronunciation": "/\u02c8k\u0252r\u0259ske\u026at/",
     "definitions": [
       {
         "definition": "To flash or sparkle; to emit flashes of light.",
@@ -926,12 +961,13 @@
       "Diamonds coruscated under the spotlights in the jewelry store display.",
       "Her coruscating wit made her a favorite guest on late-night talk shows.",
       "The ocean surface coruscated with countless reflections of the setting sun."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/corusc02.mp3"
   },
   {
     "id": "cosmogyral",
     "word": "Cosmogyral",
-    "pronunciation": "/kɒzməˈdʒaɪrəl/",
+    "pronunciation": "/k\u0252zm\u0259\u02c8d\u0292a\u026ar\u0259l/",
     "definitions": [
       {
         "definition": "Whirling around the universe.",
@@ -947,7 +983,8 @@
   {
     "id": "crapulous",
     "word": "Crapulous",
-    "pronunciation": "/ˈkræpjʊləs/",
+    "pronunciation": "/\u02c8kr\u00e6pj\u028al\u0259s/",
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/crapul01.mp3",
     "definitions": [
       {
         "definition": "Characterized by gross excess in drinking or eating.",
@@ -967,7 +1004,7 @@
   {
     "id": "crepuscular",
     "word": "Crepuscular",
-    "pronunciation": "/krɪˈpʌskjʊlər/",
+    "pronunciation": "/kr\u026a\u02c8p\u028cskj\u028al\u0259r/",
     "definitions": [
       {
         "definition": "Relating to or resembling twilight; dim.",
@@ -982,12 +1019,13 @@
       "The crepuscular light cast long shadows across the meadow.",
       "Rabbits are crepuscular animals, most active at dawn and dusk.",
       "The photographer specialized in capturing the crepuscular ambiance of cities just after sunset."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/crepus01.mp3"
   },
   {
     "id": "curglaff",
     "word": "Curglaff",
-    "pronunciation": "/ˈkɜːrɡlæf/",
+    "pronunciation": "/\u02c8k\u025c\u02d0r\u0261l\u00e6f/",
     "definitions": [
       {
         "definition": "The shock felt when entering cold water.",
@@ -1004,7 +1042,7 @@
   {
     "id": "cynosure",
     "word": "Cynosure",
-    "pronunciation": "/ˈsaɪnəʃʊə/",
+    "pronunciation": "/\u02c8sa\u026an\u0259\u0283\u028a\u0259/",
     "definitions": [
       {
         "definition": "A person or thing that is the center of attention or admiration.",
@@ -1019,12 +1057,13 @@
       "The stunning architecture made the new museum the cynosure of the city.",
       "In ancient navigation, the North Star was a cynosure for sailors crossing the ocean.",
       "At the gala, her elegant gown made her the cynosure of all eyes."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cynosu02.mp3"
   },
   {
     "id": "dactylonomy",
     "word": "Dactylonomy",
-    "pronunciation": "/ˌdæktɪˈlɒnəmi/",
+    "pronunciation": "/\u02ccd\u00e6kt\u026a\u02c8l\u0252n\u0259mi/",
     "definitions": [
       {
         "definition": "The art of counting on the fingers.",
@@ -1041,7 +1080,7 @@
   {
     "id": "defenestration",
     "word": "Defenestration",
-    "pronunciation": "/dɪˌfɛnɪˈstreɪʃən/",
+    "pronunciation": "/d\u026a\u02ccf\u025bn\u026a\u02c8stre\u026a\u0283\u0259n/",
     "definitions": [
       {
         "definition": "The act of throwing someone or something out of a window.",
@@ -1053,12 +1092,13 @@
       "His dramatic defenestration of the alarm clock every morning became a household joke.",
       "The novel climaxed with the defenestration of the incriminating documents just as the police arrived."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/d/defene01.mp3"
   },
   {
     "id": "deliquescent",
     "word": "Deliquescent",
-    "pronunciation": "/ˌdɛlɪˈkwɛsnt/",
+    "pronunciation": "/\u02ccd\u025bl\u026a\u02c8kw\u025bsnt/",
     "definitions": [
       {
         "definition": "(Chemistry) Becoming liquid by absorbing moisture from the air.",
@@ -1073,12 +1113,13 @@
       "Certain salts are highly deliquescent and must be stored in airtight containers.",
       "The ice sculpture became deliquescent in the afternoon sun.",
       "The painter captured the deliquescent quality of the sunset melting into the ocean."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/d/deliqu02.mp3"
   },
   {
     "id": "demesne",
     "word": "Demesne",
-    "pronunciation": "/dɪˈmeɪn/",
+    "pronunciation": "/d\u026a\u02c8me\u026an/",
     "definitions": [
       {
         "definition": "Land attached to a manor and retained for the owner's own use.",
@@ -1093,12 +1134,13 @@
       "The lord's demesne comprised the finest agricultural land on the estate.",
       "Quantum physics was considered outside her demesne of expertise.",
       "The castle and its surrounding demesne have been preserved as a historical site."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/d/demesn02.mp3"
   },
   {
     "id": "dendrochronology",
     "word": "Dendrochronology",
-    "pronunciation": "/ˌdɛndrəʊkrəˈnɒlədʒi/",
+    "pronunciation": "/\u02ccd\u025bndr\u0259\u028akr\u0259\u02c8n\u0252l\u0259d\u0292i/",
     "definitions": [
       {
         "definition": "The science of dating events and environmental change by studying the annual growth rings in trees.",
@@ -1109,12 +1151,13 @@
       "Using dendrochronology, researchers determined that the medieval building was constructed during a severe drought.",
       "Dendrochronology provides valuable data about climate patterns going back thousands of years.",
       "The archaeologist specialized in dendrochronology to date wooden artifacts from ancient settlements."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/d/dendro01.mp3"
   },
   {
     "id": "denouement",
     "word": "Denouement",
-    "pronunciation": "/deɪˈnuːmɒ̃/",
+    "pronunciation": "/de\u026a\u02c8nu\u02d0m\u0252\u0303/",
     "definitions": [
       {
         "definition": "The final part of a play, movie, or narrative in which the strands of the plot are drawn together and matters are explained or resolved.",
@@ -1129,12 +1172,13 @@
       "The denouement revealed that the butler was indeed the murderer all along.",
       "After months of negotiations, the denouement came swiftly when both parties signed the agreement.",
       "Critics felt the denouement was rushed and left too many questions unanswered."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/d/denoue01.mp3"
   },
   {
     "id": "desiderium",
     "word": "Desiderium",
-    "pronunciation": "/ˌdɛsɪˈdɪəriəm/",
+    "pronunciation": "/\u02ccd\u025bs\u026a\u02c8d\u026a\u0259ri\u0259m/",
     "definitions": [
       {
         "definition": "An ardent desire or longing, especially a feeling of loss or grief for something gone.",
@@ -1150,7 +1194,7 @@
   {
     "id": "desultory",
     "word": "Desultory",
-    "pronunciation": "/ˈdɛsəltəri/",
+    "pronunciation": "/\u02c8d\u025bs\u0259lt\u0259ri/",
     "definitions": [
       {
         "definition": "Lacking a plan, purpose, or enthusiasm; random, disconnected.",
@@ -1161,12 +1205,13 @@
       "The conversation was desultory, jumping from topic to topic without any real engagement.",
       "She made a desultory attempt to clean the apartment before giving up.",
       "His desultory approach to studying resulted in poor exam performance."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/d/desult01.mp3"
   },
   {
     "id": "discombobulate",
     "word": "Discombobulate",
-    "pronunciation": "/ˌdɪskəmˈbɒbjʊleɪt/",
+    "pronunciation": "/\u02ccd\u026ask\u0259m\u02c8b\u0252bj\u028ale\u026at/",
     "definitions": [
       {
         "definition": "To confuse or disconcert; upset; frustrate.",
@@ -1177,12 +1222,13 @@
       "The unexpected question completely discombobulated him during the interview.",
       "Jet lag tends to discombobulate travelers crossing multiple time zones.",
       "The magician's trick discombobulated the audience, leaving them wondering how it was done."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/d/discom01.mp3"
   },
   {
     "id": "doomscrolling",
     "word": "Doomscrolling",
-    "pronunciation": "/duːmˈskrəʊlɪŋ/",
+    "pronunciation": "/du\u02d0m\u02c8skr\u0259\u028al\u026a\u014b/",
     "definitions": [
       {
         "definition": "The habit of continuously scrolling through negative news or social media content.",
@@ -1194,12 +1240,13 @@
       "Psychologists recommend setting time limits to avoid compulsive doomscrolling during crisis events.",
       "He replaced his morning doomscrolling ritual with meditation and noticed immediate benefits."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/d/doomscroll.mp3"
   },
   {
     "id": "dysania",
     "word": "Dysania",
-    "pronunciation": "/dɪsˈeɪniə/",
+    "pronunciation": "/d\u026as\u02c8e\u026ani\u0259/",
     "definitions": [
       {
         "definition": "The state of finding it difficult to get out of bed in the morning.",
@@ -1216,7 +1263,7 @@
   {
     "id": "effervescent",
     "word": "Effervescent",
-    "pronunciation": "/ˌɛfəˈvɛsnt/",
+    "pronunciation": "/\u02cc\u025bf\u0259\u02c8v\u025bsnt/",
     "definitions": [
       {
         "definition": "Giving off bubbles; fizzy.",
@@ -1231,12 +1278,13 @@
       "She dropped the effervescent tablet into water and watched it dissolve.",
       "His effervescent personality made him the life of every gathering.",
       "The review praised the film's effervescent energy and wit."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/efferv03.mp3"
   },
   {
     "id": "eigengrau",
     "word": "Eigengrau",
-    "pronunciation": "/ˈaɪɡənɡraʊ/",
+    "pronunciation": "/\u02c8a\u026a\u0261\u0259n\u0261ra\u028a/",
     "definitions": [
       {
         "definition": "The dark gray color seen by the eyes in perfect darkness, as a result of visual noise.",
@@ -1253,7 +1301,7 @@
   {
     "id": "eldritch",
     "word": "Eldritch",
-    "pronunciation": "/ˈɛldrɪtʃ/",
+    "pronunciation": "/\u02c8\u025bldr\u026at\u0283/",
     "definitions": [
       {
         "definition": "Strange or unnatural, especially in a way that inspires fear; weird and sinister.",
@@ -1265,12 +1313,13 @@
       "The ancient forest took on an eldritch quality as the mist descended at twilight.",
       "The author specialized in tales of eldritch horrors lurking just beyond human comprehension."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/eldrit01.mp3"
   },
   {
     "id": "ennui",
     "word": "Ennui",
-    "pronunciation": "/ɒnˈwiː/",
+    "pronunciation": "/\u0252n\u02c8wi\u02d0/",
     "definitions": [
       {
         "definition": "A feeling of listlessness and dissatisfaction arising from a lack of occupation or excitement.",
@@ -1281,12 +1330,13 @@
       "The endless summer days at the country house filled the teenagers with ennui.",
       "Chronic ennui, rather than sadness, characterized his middle-aged crisis.",
       "The novel explores the ennui of suburban life and its unexpected consequences."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/ennui001.mp3"
   },
   {
     "id": "ensorcell",
     "word": "Ensorcell",
-    "pronunciation": "/ɛnˈsɔːrsəl/",
+    "pronunciation": "/\u025bn\u02c8s\u0254\u02d0rs\u0259l/",
     "definitions": [
       {
         "definition": "To enchant or fascinate; to bewitch.",
@@ -1297,12 +1347,13 @@
       "The audience was ensorcelled by the violinist's haunting melody.",
       "Her ability to ensorcell powerful men with her charm and intelligence made her a formidable political operator.",
       "The ancient forest seemed to ensorcell visitors, causing them to lose track of time and direction."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/ensorc01.mp3"
   },
   {
     "id": "ephemeral",
     "word": "Ephemeral",
-    "pronunciation": "/ɪˈfɛm(ə)rəl/",
+    "pronunciation": "/\u026a\u02c8f\u025bm(\u0259)r\u0259l/",
     "definitions": [
       {
         "definition": "Lasting for a very short time.",
@@ -1317,12 +1368,13 @@
       "The beauty of cherry blossoms is ephemeral, lasting only about a week.",
       "Fame can be ephemeral, especially in the fast-paced world of social media.",
       "She specialized in ephemeral art installations that disappeared within hours."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/epheme04.mp3"
   },
   {
     "id": "ephemeron",
     "word": "Ephemeron",
-    "pronunciation": "/ɪˈfɛmərɒn/",
+    "pronunciation": "/\u026a\u02c8f\u025bm\u0259r\u0252n/",
     "definitions": [
       {
         "definition": "Something that lasts for a notably brief time.",
@@ -1333,12 +1385,13 @@
       "Social media trends are modern ephemera, often forgotten within days.",
       "The museum collected political ephemera such as campaign buttons and posters.",
       "A mayfly is the classic example of an ephemeron in the natural world."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/epheme01.mp3"
   },
   {
     "id": "epizeuxis",
     "word": "Epizeuxis",
-    "pronunciation": "/ˌɛpɪˈzuːksɪs/",
+    "pronunciation": "/\u02cc\u025bp\u026a\u02c8zu\u02d0ks\u026as/",
     "definitions": [
       {
         "definition": "The repetition of a word or phrase in immediate succession, for emphasis or emotional effect.",
@@ -1354,7 +1407,7 @@
   {
     "id": "erinaceous",
     "word": "Erinaceous",
-    "pronunciation": "/ˌɛrɪˈneɪʃəs/",
+    "pronunciation": "/\u02cc\u025br\u026a\u02c8ne\u026a\u0283\u0259s/",
     "definitions": [
       {
         "definition": "Of, pertaining to, or resembling a hedgehog.",
@@ -1363,7 +1416,7 @@
     ],
     "examples": [
       "His erinaceous hairstyle became more pronounced in the humidity.",
-      "The character had an erinaceous personality—prickly on the outside but gentle underneath.",
+      "The character had an erinaceous personality\u2014prickly on the outside but gentle underneath.",
       "The artist specialized in erinaceous sculptures made from repurposed metal scraps."
     ],
     "isFeatured": true
@@ -1371,7 +1424,7 @@
   {
     "id": "erstwhile",
     "word": "Erstwhile",
-    "pronunciation": "/ˈɜːstwaɪl/",
+    "pronunciation": "/\u02c8\u025c\u02d0stwa\u026al/",
     "definitions": [
       {
         "definition": "Former; onetime.",
@@ -1382,12 +1435,13 @@
       "The erstwhile allies soon became bitter competitors.",
       "She ran into her erstwhile neighbor at the conference.",
       "The erstwhile champion watched from the sidelines as a new record was set."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/erstwh01.mp3"
   },
   {
     "id": "ethereal",
     "word": "Ethereal",
-    "pronunciation": "/ɪˈθɪəriəl/",
+    "pronunciation": "/\u026a\u02c8\u03b8\u026a\u0259ri\u0259l/",
     "definitions": [
       {
         "definition": "Extremely delicate and light in a way that seems too perfect for this world.",
@@ -1402,12 +1456,13 @@
       "The dancer's ethereal movements seemed to defy gravity.",
       "Morning mist gave the landscape an ethereal quality.",
       "Her ethereal voice floated above the orchestral accompaniment."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/ethere01.mp3"
   },
   {
     "id": "eucatastrophe",
     "word": "Eucatastrophe",
-    "pronunciation": "/ˌjuːkəˈtæstrəfi/",
+    "pronunciation": "/\u02ccju\u02d0k\u0259\u02c8t\u00e6str\u0259fi/",
     "definitions": [
       {
         "definition": "A sudden and favorable resolution of events in a story; a happy ending.",
@@ -1423,7 +1478,7 @@
   {
     "id": "eudaemonia",
     "word": "Eudaemonia",
-    "pronunciation": "/juːdɪˈmoʊniə/",
+    "pronunciation": "/ju\u02d0d\u026a\u02c8mo\u028ani\u0259/",
     "definitions": [
       {
         "definition": "A state of happiness and well-being; human flourishing.",
@@ -1439,7 +1494,7 @@
   {
     "id": "evanescent",
     "word": "Evanescent",
-    "pronunciation": "/ˌɛvəˈnɛsnt/",
+    "pronunciation": "/\u02cc\u025bv\u0259\u02c8n\u025bsnt/",
     "definitions": [
       {
         "definition": "Soon passing out of sight, memory, or existence; quickly fading or disappearing.",
@@ -1450,12 +1505,13 @@
       "The evanescent beauty of cherry blossoms makes them all the more precious.",
       "Fame in the age of social media can be particularly evanescent.",
       "The photographer specialized in capturing evanescent moments of everyday life."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/evanes03.mp3"
   },
   {
     "id": "farrago",
     "word": "Farrago",
-    "pronunciation": "/fəˈrɑːɡəʊ/",
+    "pronunciation": "/f\u0259\u02c8r\u0251\u02d0\u0261\u0259\u028a/",
     "definitions": [
       {
         "definition": "A confused mixture; a hodgepodge.",
@@ -1466,12 +1522,13 @@
       "The report was a farrago of unsubstantiated claims and logical fallacies.",
       "The museum exhibition presented a farrago of artifacts from different periods with little coherent organization.",
       "His personal style was a farrago of influences from various decades and cultures."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/farrag03.mp3"
   },
   {
     "id": "fernweh",
     "word": "Fernweh",
-    "pronunciation": "/ˈfɛrnveː/",
+    "pronunciation": "/\u02c8f\u025brnve\u02d0/",
     "definitions": [
       {
         "definition": "An ache for distant places; a craving for travel.",
@@ -1488,7 +1545,7 @@
   {
     "id": "flibbertigibbet",
     "word": "Flibbertigibbet",
-    "pronunciation": "/ˌflɪbərtɪˈdʒɪbɪt/",
+    "pronunciation": "/\u02ccfl\u026ab\u0259rt\u026a\u02c8d\u0292\u026ab\u026at/",
     "definitions": [
       {
         "definition": "A frivolous, flighty, or excessively talkative person.",
@@ -1500,12 +1557,13 @@
       "The character of the flibbertigibbet in the play provided comic relief between serious scenes.",
       "He dismissed her as a flibbertigibbet, not realizing the sharp intelligence behind her chatty exterior."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/flibbe01.mp3"
   },
   {
     "id": "floccinaucinihilipilification",
     "word": "Floccinaucinihilipilification",
-    "pronunciation": "/ˌflɒksɪˌnɔːsɪnaɪˌhɪlɪˌpɪlɪfɪˈkeɪʃən/",
+    "pronunciation": "/\u02ccfl\u0252ks\u026a\u02ccn\u0254\u02d0s\u026ana\u026a\u02cch\u026al\u026a\u02ccp\u026al\u026af\u026a\u02c8ke\u026a\u0283\u0259n/",
     "definitions": [
       {
         "definition": "The action or habit of estimating something as worthless.",
@@ -1522,7 +1580,7 @@
   {
     "id": "foofaraw",
     "word": "Foofaraw",
-    "pronunciation": "/ˈfuːfəˌrɔː/",
+    "pronunciation": "/\u02c8fu\u02d0f\u0259\u02ccr\u0254\u02d0/",
     "definitions": [
       {
         "definition": "Excessive or flashy ornamentation or decoration.",
@@ -1538,12 +1596,13 @@
       "There was a tremendous foofaraw when the celebrity arrived at the small-town restaurant.",
       "He disliked the foofaraw of modern website design, preferring clean, minimalist interfaces."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/foofar01.mp3"
   },
   {
     "id": "frangible",
     "word": "Frangible",
-    "pronunciation": "/ˈfrændʒɪbl/",
+    "pronunciation": "/\u02c8fr\u00e6nd\u0292\u026abl/",
     "definitions": [
       {
         "definition": "Easily broken or fragile.",
@@ -1554,12 +1613,13 @@
       "The package was marked 'frangible' to ensure careful handling during shipping.",
       "They designed frangible bullets that would break apart upon impact to reduce the risk of ricochets.",
       "The archaeologist carefully excavated the frangible remains of the ancient pottery."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/frangi01.mp3"
   },
   {
     "id": "funambulist",
     "word": "Funambulist",
-    "pronunciation": "/fjuːˈnæmbjʊlɪst/",
+    "pronunciation": "/fju\u02d0\u02c8n\u00e6mbj\u028al\u026ast/",
     "definitions": [
       {
         "definition": "A tightrope walker.",
@@ -1571,12 +1631,13 @@
       "Becoming a funambulist requires exceptional balance, focus, and physical control.",
       "Modern funambulists often incorporate dance and theatrical elements into their performances."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/funamb01.mp3"
   },
   {
     "id": "gambrinous",
     "word": "Gambrinous",
-    "pronunciation": "/ɡæmˈbraɪnəs/",
+    "pronunciation": "/\u0261\u00e6m\u02c8bra\u026an\u0259s/",
     "definitions": [
       {
         "definition": "Being full of or fond of beer.",
@@ -1593,7 +1654,7 @@
   {
     "id": "gelid",
     "word": "Gelid",
-    "pronunciation": "/ˈdʒɛlɪd/",
+    "pronunciation": "/\u02c8d\u0292\u025bl\u026ad/",
     "definitions": [
       {
         "definition": "Extremely cold; icy.",
@@ -1604,12 +1665,13 @@
       "The gelid water of the mountain lake took his breath away when he dove in.",
       "A gelid wind swept down from the north, freezing everything in its path.",
       "Her gelid response to his apology suggested that reconciliation would be difficult."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gelid001.mp3"
   },
   {
     "id": "gongoozler",
     "word": "Gongoozler",
-    "pronunciation": "/ˈɡɒŋɡuːzlə/",
+    "pronunciation": "/\u02c8\u0261\u0252\u014b\u0261u\u02d0zl\u0259/",
     "definitions": [
       {
         "definition": "A person who enjoys watching activity on canals.",
@@ -1625,7 +1687,7 @@
   {
     "id": "gorgonize",
     "word": "Gorgonize",
-    "pronunciation": "/ˈɡɔːɡənaɪz/",
+    "pronunciation": "/\u02c8\u0261\u0254\u02d0\u0261\u0259na\u026az/",
     "definitions": [
       {
         "definition": "To have a paralizing or mesmerizing effect on someone.",
@@ -1636,12 +1698,13 @@
       "The speaker's eloquence gorgonized the audience into complete silence.",
       "She had a way of gorgonizing critics with her penetrating stare and quick retorts.",
       "The sudden appearance of the celebrity gorgonized the fans, leaving them momentarily speechless."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gorgon04.mp3"
   },
   {
     "id": "griffonage",
     "word": "Griffonage",
-    "pronunciation": "/ˈɡrɪfənɑːʒ/",
+    "pronunciation": "/\u02c8\u0261r\u026af\u0259n\u0251\u02d0\u0292/",
     "definitions": [
       {
         "definition": "Careless handwriting; a scribble.",
@@ -1657,7 +1720,7 @@
   {
     "id": "haecceity",
     "word": "Haecceity",
-    "pronunciation": "/hɛkˈsiːɪti/",
+    "pronunciation": "/h\u025bk\u02c8si\u02d0\u026ati/",
     "definitions": [
       {
         "definition": "The quality that makes a thing the individual thing that it is; the essence of a particular thing.",
@@ -1673,7 +1736,7 @@
   {
     "id": "hippopotomonstrosesquippedaliophobia",
     "word": "Hippopotomonstrosesquippedaliophobia",
-    "pronunciation": "/ˌhɪpəpɒtəˌmɒnstrəʊˌsɛskwɪpəˌdeɪliəˈfəʊbiə/",
+    "pronunciation": "/\u02cch\u026ap\u0259p\u0252t\u0259\u02ccm\u0252nstr\u0259\u028a\u02ccs\u025bskw\u026ap\u0259\u02ccde\u026ali\u0259\u02c8f\u0259\u028abi\u0259/",
     "definitions": [
       {
         "definition": "The fear of long words.",
@@ -1690,7 +1753,7 @@
   {
     "id": "hiraeth",
     "word": "Hiraeth",
-    "pronunciation": "/hɪˈraɪθ/",
+    "pronunciation": "/h\u026a\u02c8ra\u026a\u03b8/",
     "definitions": [
       {
         "definition": "A homesickness for a place that no longer exists or never was; a deep sense of nostalgia and longing.",
@@ -1707,7 +1770,7 @@
   {
     "id": "hygge",
     "word": "Hygge",
-    "pronunciation": "/ˈhjuːɡə/ or /ˈhuːɡə/",
+    "pronunciation": "/\u02c8hju\u02d0\u0261\u0259/ or /\u02c8hu\u02d0\u0261\u0259/",
     "definitions": [
       {
         "definition": "A quality of coziness and comfortable conviviality that engenders a feeling of contentment or well-being.",
@@ -1716,15 +1779,16 @@
     ],
     "examples": [
       "The Danish concept of hygge involves creating a warm atmosphere and enjoying the good things in life with good people.",
-      "Their winter evenings were filled with hygge—warm blankets, hot drinks, and good conversation by the fireplace.",
+      "Their winter evenings were filled with hygge\u2014warm blankets, hot drinks, and good conversation by the fireplace.",
       "The interior designer specialized in creating spaces that promoted hygge through soft lighting and comfortable furnishings."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hygge.mp3"
   },
   {
     "id": "hypnopompia",
     "word": "Hypnopompia",
-    "pronunciation": "/ˌhɪpnəˈpɒmpiə/",
+    "pronunciation": "/\u02cch\u026apn\u0259\u02c8p\u0252mpi\u0259/",
     "definitions": [
       {
         "definition": "The state of consciousness leading out of sleep, in which dream imagery may persist.",
@@ -1741,7 +1805,7 @@
   {
     "id": "hypnopompic",
     "word": "Hypnopompic",
-    "pronunciation": "/ˌhɪpnəˈpɒmpɪk/",
+    "pronunciation": "/\u02cch\u026apn\u0259\u02c8p\u0252mp\u026ak/",
     "definitions": [
       {
         "definition": "Relating to the semiconscious state immediately preceding waking up.",
@@ -1752,12 +1816,13 @@
       "She experienced vivid hypnopompic hallucinations that lingered briefly as she awakened.",
       "The hypnopompic state often produces unusual sensory experiences as the brain transitions to wakefulness.",
       "His artwork attempted to capture the strange logic and imagery of hypnopompic consciousness."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hypnop01.mp3"
   },
   {
     "id": "hypocorism",
     "word": "Hypocorism",
-    "pronunciation": "/haɪˈpɒkərɪzəm/",
+    "pronunciation": "/ha\u026a\u02c8p\u0252k\u0259r\u026az\u0259m/",
     "definitions": [
       {
         "definition": "A pet name or diminutive form of a name.",
@@ -1768,12 +1833,13 @@
       "'Bobby' and 'Bob' are common hypocorisms for 'Robert.'",
       "Different cultures have distinctive patterns for forming hypocorisms from given names.",
       "The toddler couldn't pronounce his sister's name, creating an adorable hypocorism that the family adopted."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hypoco02.mp3"
   },
   {
     "id": "inchoate",
     "word": "Inchoate",
-    "pronunciation": "/ɪnˈkəʊət/",
+    "pronunciation": "/\u026an\u02c8k\u0259\u028a\u0259t/",
     "definitions": [
       {
         "definition": "Just begun and so not fully formed or developed; rudimentary.",
@@ -1788,12 +1854,13 @@
       "The protest movement remained inchoate, lacking clear leadership or demands.",
       "She had only an inchoate understanding of the complex legal issues involved.",
       "His inchoate thoughts on the subject gradually crystallized into a coherent theory."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inchoa01.mp3"
   },
   {
     "id": "ineffable",
     "word": "Ineffable",
-    "pronunciation": "/ɪnˈɛfəbl/",
+    "pronunciation": "/\u026an\u02c8\u025bf\u0259bl/",
     "definitions": [
       {
         "definition": "Too great or extreme to be expressed or described in words.",
@@ -1804,12 +1871,13 @@
       "The beauty of the sunset over the ocean was truly ineffable.",
       "She experienced an ineffable joy when holding her newborn for the first time.",
       "The poet struggled to capture the ineffable quality of the ancient temple."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/ineffa01.mp3"
   },
   {
     "id": "ineluctable",
     "word": "Ineluctable",
-    "pronunciation": "/ˌɪnɪˈlʌktəbl/",
+    "pronunciation": "/\u02cc\u026an\u026a\u02c8l\u028ckt\u0259bl/",
     "definitions": [
       {
         "definition": "Unable to be avoided or escaped; inevitable.",
@@ -1820,12 +1888,13 @@
       "Death is an ineluctable fact of life.",
       "The committee faced the ineluctable conclusion that the project had failed.",
       "There was an ineluctable logic to her argument that no one could refute."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/ineluc01.mp3"
   },
   {
     "id": "insouciant",
     "word": "Insouciant",
-    "pronunciation": "/ɪnˈsuːsiənt/",
+    "pronunciation": "/\u026an\u02c8su\u02d0si\u0259nt/",
     "definitions": [
       {
         "definition": "Showing a casual lack of concern; indifferent.",
@@ -1836,12 +1905,13 @@
       "He responded to the crisis with insouciant ease, as if such emergencies were everyday occurrences.",
       "Her insouciant attitude toward deadlines frustrated her more conscientious colleagues.",
       "The character's insouciant charm made him appealing despite his moral failings."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/insouc02.mp3"
   },
   {
     "id": "inure",
     "word": "Inure",
-    "pronunciation": "/ɪˈnjʊə/",
+    "pronunciation": "/\u026a\u02c8nj\u028a\u0259/",
     "definitions": [
       {
         "definition": "To accustom (someone) to something, especially something unpleasant.",
@@ -1852,12 +1922,13 @@
       "Soldiers become inured to hardship through rigorous training.",
       "Years of rejection had inured her to criticism.",
       "Working in emergency medicine gradually inured him to the sight of severe injuries."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inure001.mp3"
   },
   {
     "id": "jabberwocky",
     "word": "Jabberwocky",
-    "pronunciation": "/ˈdʒæbəˌwɒki/",
+    "pronunciation": "/\u02c8d\u0292\u00e6b\u0259\u02ccw\u0252ki/",
     "definitions": [
       {
         "definition": "Invented or meaningless language; nonsense.",
@@ -1868,12 +1939,13 @@
       "The technical explanation sounded like jabberwocky to everyone without a background in the field.",
       "Lewis Carroll's poem 'Jabberwocky' is famous for its inventive nonsense words that somehow still convey meaning.",
       "The toddler's excited storytelling was mostly jabberwocky, but her enthusiasm was contagious."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/jabber04.mp3"
   },
   {
     "id": "jactitation",
     "word": "Jactitation",
-    "pronunciation": "/ˌdʒæktɪˈteɪʃən/",
+    "pronunciation": "/\u02ccd\u0292\u00e6kt\u026a\u02c8te\u026a\u0283\u0259n/",
     "definitions": [
       {
         "definition": "Restless tossing of the body in illness.",
@@ -1888,12 +1960,13 @@
       "The nurse noted the patient's jactitation as a symptom of increasing discomfort.",
       "His jactitation about having royal connections was eventually exposed as a complete fabrication.",
       "In medieval law, jactitation of marriage referred to falsely claiming to be married to someone."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/jactit01.mp3"
   },
   {
     "id": "jejune",
     "word": "Jejune",
-    "pronunciation": "/dʒɪˈdʒuːn/",
+    "pronunciation": "/d\u0292\u026a\u02c8d\u0292u\u02d0n/",
     "definitions": [
       {
         "definition": "Lacking in nutritive value.",
@@ -1912,12 +1985,13 @@
       "The critic dismissed the bestseller as jejune entertainment with no literary merit.",
       "His jejune understanding of international politics led him to propose unrealistic solutions.",
       "The documentary offered a refreshing alternative to the jejune content on most channels."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/jejune01.mp3"
   },
   {
     "id": "jentacular",
     "word": "Jentacular",
-    "pronunciation": "/dʒɛnˈtækjʊlə/",
+    "pronunciation": "/d\u0292\u025bn\u02c8t\u00e6kj\u028al\u0259/",
     "definitions": [
       {
         "definition": "Pertaining to breakfast.",
@@ -1933,7 +2007,7 @@
   {
     "id": "jouska",
     "word": "Jouska",
-    "pronunciation": "/ˈdʒaʊskə/",
+    "pronunciation": "/\u02c8d\u0292a\u028ask\u0259/",
     "definitions": [
       {
         "definition": "A hypothetical conversation that you play out in your head.",
@@ -1950,7 +2024,7 @@
   {
     "id": "kakistocracy",
     "word": "Kakistocracy",
-    "pronunciation": "/ˌkækɪˈstɒkrəsi/",
+    "pronunciation": "/\u02cck\u00e6k\u026a\u02c8st\u0252kr\u0259si/",
     "definitions": [
       {
         "definition": "Government by the least qualified or most unscrupulous citizens.",
@@ -1967,7 +2041,7 @@
   {
     "id": "kakorrhaphiophobia",
     "word": "Kakorrhaphiophobia",
-    "pronunciation": "/ˌkækəʊræfiəˈfəʊbiə/",
+    "pronunciation": "/\u02cck\u00e6k\u0259\u028ar\u00e6fi\u0259\u02c8f\u0259\u028abi\u0259/",
     "definitions": [
       {
         "definition": "The abnormal fear of failure or defeat.",
@@ -1979,12 +2053,13 @@
       "Therapists help patients with kakorrhaphiophobia by gradually exposing them to situations where failure is possible but not catastrophic.",
       "Her kakorrhaphiophobia stemmed from childhood experiences where mistakes were harshly criticized."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/k/kakor01m.mp3"
   },
   {
     "id": "kalopsia",
     "word": "Kalopsia",
-    "pronunciation": "/kəˈlɒpsiə/",
+    "pronunciation": "/k\u0259\u02c8l\u0252psi\u0259/",
     "definitions": [
       {
         "definition": "The delusion of things being more beautiful than they are.",
@@ -2000,7 +2075,7 @@
   {
     "id": "kenopsia",
     "word": "Kenopsia",
-    "pronunciation": "/kɛˈnɒpsiə/",
+    "pronunciation": "/k\u025b\u02c8n\u0252psi\u0259/",
     "definitions": [
       {
         "definition": "The eerie, forlorn atmosphere of a place that's usually bustling with people but is now abandoned and quiet.",
@@ -2017,7 +2092,7 @@
   {
     "id": "kerfuffle",
     "word": "Kerfuffle",
-    "pronunciation": "/kəˈfʌfəl/",
+    "pronunciation": "/k\u0259\u02c8f\u028cf\u0259l/",
     "definitions": [
       {
         "definition": "A commotion or fuss, especially one caused by conflicting views.",
@@ -2028,12 +2103,13 @@
       "There was a kerfuffle in the audience when someone's phone started ringing during the performance.",
       "The minor policy change caused a major kerfuffle among longtime members of the organization.",
       "After the initial kerfuffle died down, everyone agreed the misunderstanding had been blown out of proportion."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/k/kerfuf01.mp3"
   },
   {
     "id": "komorebi",
     "word": "Komorebi",
-    "pronunciation": "/koʊmoʊˈreɪbi/",
+    "pronunciation": "/ko\u028amo\u028a\u02c8re\u026abi/",
     "definitions": [
       {
         "definition": "The sunlight that filters through the leaves of trees; the interplay between light and leaves.",
@@ -2050,7 +2126,7 @@
   {
     "id": "kvell",
     "word": "Kvell",
-    "pronunciation": "/kvɛl/",
+    "pronunciation": "/kv\u025bl/",
     "definitions": [
       {
         "definition": "To feel or express pride and joy in someone's achievements.",
@@ -2061,12 +2137,13 @@
       "The grandparents couldn't help but kvell as they watched their granddaughter graduate with honors.",
       "She kvelled about her son's musical talent to anyone who would listen.",
       "Teachers often kvell when former students return to share their successes."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/k/kvell01v.mp3"
   },
   {
     "id": "lacuna",
     "word": "Lacuna",
-    "pronunciation": "/ləˈkuːnə/",
+    "pronunciation": "/l\u0259\u02c8ku\u02d0n\u0259/",
     "definitions": [
       {
         "definition": "An unfilled space or gap in a manuscript, text, or musical work.",
@@ -2081,12 +2158,13 @@
       "The damaged manuscript contained several lacunae that scholars have attempted to reconstruct.",
       "There remains a significant lacuna in our understanding of how these civilizations interacted.",
       "The professor identified an important lacuna in the current research on quantum gravity."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/l/lacuna01.mp3"
   },
   {
     "id": "lalochezia",
     "word": "Lalochezia",
-    "pronunciation": "/ˌlæləˈkiːziə/",
+    "pronunciation": "/\u02ccl\u00e6l\u0259\u02c8ki\u02d0zi\u0259/",
     "definitions": [
       {
         "definition": "The emotional relief gained from using profane or vulgar language.",
@@ -2102,7 +2180,7 @@
   {
     "id": "lambent",
     "word": "Lambent",
-    "pronunciation": "/ˈlæmbənt/",
+    "pronunciation": "/\u02c8l\u00e6mb\u0259nt/",
     "definitions": [
       {
         "definition": "(Of light or fire) glowing, gleaming, or flickering with a soft radiance.",
@@ -2117,12 +2195,13 @@
       "The room was illuminated by the lambent flame of a single candle.",
       "Her essay on urban life revealed a lambent wit that never became caustic.",
       "The sunset cast a lambent light across the ocean."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/l/lamben02.mp3"
   },
   {
     "id": "languor",
     "word": "Languor",
-    "pronunciation": "/ˈlæŋɡə/",
+    "pronunciation": "/\u02c8l\u00e6\u014b\u0261\u0259/",
     "definitions": [
       {
         "definition": "A state of pleasant tiredness or dreaminess.",
@@ -2137,12 +2216,13 @@
       "The afternoon heat induced a pleasant languor that made it impossible to work.",
       "She moved with the languor of someone who had nowhere particular to be.",
       "The tropical setting of the novel is characterized by an oppressive languor that affects all the characters."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/l/languo01.mp3"
   },
   {
     "id": "lassitude",
     "word": "Lassitude",
-    "pronunciation": "/ˈlæsɪtjuːd/",
+    "pronunciation": "/\u02c8l\u00e6s\u026atju\u02d0d/",
     "definitions": [
       {
         "definition": "A state of physical or mental weariness; lack of energy.",
@@ -2153,12 +2233,13 @@
       "The extreme heat caused a lassitude that made it difficult to concentrate.",
       "His chronic lassitude was eventually diagnosed as a symptom of an underlying health condition.",
       "A strange lassitude overcame her in the middle of the workday."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/l/lassit01.mp3"
   },
   {
     "id": "lethologica",
     "word": "Lethologica",
-    "pronunciation": "/ˌlɛθəˈlɒdʒɪkə/",
+    "pronunciation": "/\u02ccl\u025b\u03b8\u0259\u02c8l\u0252d\u0292\u026ak\u0259/",
     "definitions": [
       {
         "definition": "The inability to remember a word or put your finger on the right word.",
@@ -2175,7 +2256,7 @@
   {
     "id": "limerence",
     "word": "Limerence",
-    "pronunciation": "/ˈlɪmərəns/",
+    "pronunciation": "/\u02c8l\u026am\u0259r\u0259ns/",
     "definitions": [
       {
         "definition": "The state of being infatuated or obsessed with another person, typically experienced involuntarily and characterized by a strong desire for reciprocation of one's feelings.",
@@ -2192,7 +2273,7 @@
   {
     "id": "liminal",
     "word": "Liminal",
-    "pronunciation": "/ˈlɪmɪnl/",
+    "pronunciation": "/\u02c8l\u026am\u026anl/",
     "definitions": [
       {
         "definition": "Relating to a transitional or initial stage of a process.",
@@ -2208,12 +2289,13 @@
       "Adolescence is a liminal phase between childhood and adulthood.",
       "The artwork explores the liminal states of consciousness between wakefulness and sleep."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/l/limina01.mp3"
   },
   {
     "id": "lithomorphic",
     "word": "Lithomorphic",
-    "pronunciation": "/lɪθəˈmɔːfɪk/",
+    "pronunciation": "/l\u026a\u03b8\u0259\u02c8m\u0254\u02d0f\u026ak/",
     "definitions": [
       {
         "definition": "Resembling a stone or rock; having the form of stone.",
@@ -2229,7 +2311,7 @@
   {
     "id": "logomachy",
     "word": "Logomachy",
-    "pronunciation": "/lɒˈɡɒməki/",
+    "pronunciation": "/l\u0252\u02c8\u0261\u0252m\u0259ki/",
     "definitions": [
       {
         "definition": "An argument or dispute about words or the meaning of words.",
@@ -2244,12 +2326,13 @@
       "The academic conference devolved into logomachy rather than substantive debate about ideas.",
       "Politicians often engage in logomachy to avoid addressing the real issues at hand.",
       "What began as a simple disagreement escalated into a full-blown logomachy that lasted for hours."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/l/logoma01.mp3"
   },
   {
     "id": "logophile",
     "word": "Logophile",
-    "pronunciation": "/ˈlɒɡəfaɪl/",
+    "pronunciation": "/\u02c8l\u0252\u0261\u0259fa\u026al/",
     "definitions": [
       {
         "definition": "A lover of words; a word enthusiast.",
@@ -2260,12 +2343,13 @@
       "As a logophile, she maintained a journal of interesting words she encountered in her reading.",
       "The logophile's apartment was filled with dictionaries in multiple languages.",
       "Only a true logophile would appreciate the subtle differences between these synonyms."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/l/logophile_1.mp3"
   },
   {
     "id": "lucubrate",
     "word": "Lucubrate",
-    "pronunciation": "/ˈluːkjʊbreɪt/",
+    "pronunciation": "/\u02c8lu\u02d0kj\u028abre\u026at/",
     "definitions": [
       {
         "definition": "To work, write, or study laboriously, especially late at night.",
@@ -2281,7 +2365,7 @@
   {
     "id": "lucubration",
     "word": "Lucubration",
-    "pronunciation": "/ˌluːkjʊˈbreɪʃən/",
+    "pronunciation": "/\u02cclu\u02d0kj\u028a\u02c8bre\u026a\u0283\u0259n/",
     "definitions": [
       {
         "definition": "Study or work done during the night.",
@@ -2296,12 +2380,13 @@
       "The dissertation was the result of years of lucubration in the university library.",
       "His lucubrations on obscure philosophical questions filled several thick volumes.",
       "She preferred early morning work to evening lucubration."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/l/lucubr01.mp3"
   },
   {
     "id": "lyart",
     "word": "Lyart",
-    "pronunciation": "/ˈlaɪɑːrt/",
+    "pronunciation": "/\u02c8la\u026a\u0251\u02d0rt/",
     "definitions": [
       {
         "definition": "Having streaks of grey or white in dark hair.",
@@ -2312,12 +2397,13 @@
       "The portrait depicted a distinguished gentleman with lyart temples.",
       "His once jet-black beard had become increasingly lyart over the past decade.",
       "She embraced her lyart hair as a sign of wisdom rather than age."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/l/lyart001.mp3"
   },
   {
     "id": "macrosmatic",
     "word": "Macrosmatic",
-    "pronunciation": "/ˌmækrɒzˈmætɪk/",
+    "pronunciation": "/\u02ccm\u00e6kr\u0252z\u02c8m\u00e6t\u026ak/",
     "definitions": [
       {
         "definition": "Having a well-developed sense of smell.",
@@ -2328,12 +2414,13 @@
       "Dogs are macrosmatic animals, relying heavily on their sense of smell to understand their environment.",
       "The perfumer's macrosmatic abilities allowed her to detect subtle nuances in fragrances that others missed.",
       "Humans are considered microsmatic rather than macrosmatic, with a relatively poor sense of smell compared to many mammals."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/macro56m.mp3"
   },
   {
     "id": "maladroit",
     "word": "Maladroit",
-    "pronunciation": "/ˌmæləˈdrɔɪt/",
+    "pronunciation": "/\u02ccm\u00e6l\u0259\u02c8dr\u0254\u026at/",
     "definitions": [
       {
         "definition": "Ineffective or clumsy; not skillful.",
@@ -2344,12 +2431,13 @@
       "His maladroit attempt at an apology only made the situation worse.",
       "The maladroit handling of the crisis led to a wave of resignations.",
       "She felt maladroit at the formal dinner, unsure which fork to use for each course."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/maladr01.mp3"
   },
   {
     "id": "mamihlapinatapai",
     "word": "Mamihlapinatapai",
-    "pronunciation": "/məˌmɪlæpɪnætəˈpaɪ/",
+    "pronunciation": "/m\u0259\u02ccm\u026al\u00e6p\u026an\u00e6t\u0259\u02c8pa\u026a/",
     "definitions": [
       {
         "definition": "A look shared by two people, each wishing that the other would initiate something that they both desire but which neither wants to begin.",
@@ -2366,7 +2454,7 @@
   {
     "id": "meliorism",
     "word": "Meliorism",
-    "pronunciation": "/ˈmiːliərɪzəm/",
+    "pronunciation": "/\u02c8mi\u02d0li\u0259r\u026az\u0259m/",
     "definitions": [
       {
         "definition": "The belief that the world can be made better by human effort.",
@@ -2374,15 +2462,16 @@
       }
     ],
     "examples": [
-      "Her philosophy combined pragmatism with meliorism—a conviction that dedicated effort could improve social conditions.",
+      "Her philosophy combined pragmatism with meliorism\u2014a conviction that dedicated effort could improve social conditions.",
       "The charity's mission statement reflected a strong sense of meliorism in its approach to global poverty.",
       "Despite setbacks, his meliorism never wavered; he remained convinced that positive change was possible."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/melior05.mp3"
   },
   {
     "id": "mellifluous",
     "word": "Mellifluous",
-    "pronunciation": "/məˈlɪfluəs/",
+    "pronunciation": "/m\u0259\u02c8l\u026aflu\u0259s/",
     "definitions": [
       {
         "definition": "Sweet or musical; pleasant to hear.",
@@ -2393,12 +2482,13 @@
       "The singer's mellifluous voice captivated the entire audience.",
       "He had a mellifluous way of speaking that made even mundane topics interesting.",
       "The mellifluous sounds of the stream provided a perfect backdrop for meditation."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mellif02.mp3"
   },
   {
     "id": "meraki",
     "word": "Meraki",
-    "pronunciation": "/meˈrɑːki/",
+    "pronunciation": "/me\u02c8r\u0251\u02d0ki/",
     "definitions": [
       {
         "definition": "The soul, creativity, or love put into something; the essence of yourself that is put into your work.",
@@ -2407,7 +2497,7 @@
     ],
     "examples": [
       "The handcrafted furniture was created with meraki, reflecting the artisan's passion and dedication.",
-      "You can taste the meraki in her cooking—each dish contains a piece of her heritage and personal story.",
+      "You can taste the meraki in her cooking\u2014each dish contains a piece of her heritage and personal story.",
       "True artists approach their work with meraki, infusing each creation with their essence."
     ],
     "isFeatured": true
@@ -2415,7 +2505,7 @@
   {
     "id": "metanoia",
     "word": "Metanoia",
-    "pronunciation": "/ˌmɛtəˈnɔɪə/",
+    "pronunciation": "/\u02ccm\u025bt\u0259\u02c8n\u0254\u026a\u0259/",
     "definitions": [
       {
         "definition": "A profound transformation in one's outlook or way of life; a spiritual conversion.",
@@ -2427,12 +2517,13 @@
       "The environmental disaster triggered a collective metanoia in how the community viewed development.",
       "Great literature often depicts characters experiencing metanoia through their journey."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/metan01v.mp3"
   },
   {
     "id": "misocapnist",
     "word": "Misocapnist",
-    "pronunciation": "/ˌmɪsəʊˈkæpnɪst/",
+    "pronunciation": "/\u02ccm\u026as\u0259\u028a\u02c8k\u00e6pn\u026ast/",
     "definitions": [
       {
         "definition": "A person who hates or is intolerant of tobacco smoke.",
@@ -2448,7 +2539,7 @@
   {
     "id": "monachopsis",
     "word": "Monachopsis",
-    "pronunciation": "/ˌmɒnəˈkɒpsɪs/",
+    "pronunciation": "/\u02ccm\u0252n\u0259\u02c8k\u0252ps\u026as/",
     "definitions": [
       {
         "definition": "The subtle but persistent feeling of being out of place; the feeling of being a stranger in a familiar setting.",
@@ -2465,7 +2556,7 @@
   {
     "id": "mondegreen",
     "word": "Mondegreen",
-    "pronunciation": "/ˈmɒndɪɡriːn/",
+    "pronunciation": "/\u02c8m\u0252nd\u026a\u0261ri\u02d0n/",
     "definitions": [
       {
         "definition": "A misinterpretation of a phrase as a result of mishearing it, especially in song lyrics.",
@@ -2476,12 +2567,13 @@
       "The classic mondegreen 'excuse me while I kiss this guy' (instead of 'kiss the sky') from Jimi Hendrix's 'Purple Haze' is known by many.",
       "Children's songs are often full of mondegreens as young listeners try to make sense of unfamiliar words.",
       "The podcast collected listeners' favorite mondegreens, creating a hilarious compilation of misheard lyrics."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mondeg01.mp3"
   },
   {
     "id": "morosoph",
     "word": "Morosoph",
-    "pronunciation": "/ˈmɒrəsɒf/",
+    "pronunciation": "/\u02c8m\u0252r\u0259s\u0252f/",
     "definitions": [
       {
         "definition": "A learned fool; someone who is educated but lacks wisdom or common sense.",
@@ -2498,7 +2590,7 @@
   {
     "id": "mumblecore",
     "word": "Mumblecore",
-    "pronunciation": "/ˈmʌmbəlkɔːr/",
+    "pronunciation": "/\u02c8m\u028cmb\u0259lk\u0254\u02d0r/",
     "definitions": [
       {
         "definition": "A style of low-budget film typically characterized by naturalistic acting and dialogue, often with an emphasis on personal relationships.",
@@ -2509,12 +2601,13 @@
       "The festival showcased several mumblecore films from emerging directors.",
       "Mumblecore emerged in the early 2000s as digital filmmaking became more accessible.",
       "Critics debate whether mumblecore represents genuine artistic innovation or simply reflects budget constraints."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mumblecore_1.mp3"
   },
   {
     "id": "mumpsimus",
     "word": "Mumpsimus",
-    "pronunciation": "/ˈmʌmpsɪməs/",
+    "pronunciation": "/\u02c8m\u028cmps\u026am\u0259s/",
     "definitions": [
       {
         "definition": "A traditional custom or notion that is adhered to despite being unreasonable.",
@@ -2534,7 +2627,7 @@
   {
     "id": "murmuration",
     "word": "Murmuration",
-    "pronunciation": "/ˌmɜːməˈreɪʃən/",
+    "pronunciation": "/\u02ccm\u025c\u02d0m\u0259\u02c8re\u026a\u0283\u0259n/",
     "definitions": [
       {
         "definition": "The act of murmuring.",
@@ -2555,7 +2648,7 @@
   {
     "id": "nefelibata",
     "word": "Nefelibata",
-    "pronunciation": "/nɛfɛliˈbɑːtə/",
+    "pronunciation": "/n\u025bf\u025bli\u02c8b\u0251\u02d0t\u0259/",
     "definitions": [
       {
         "definition": "One who lives in the clouds of their own imagination; an unconventional person who doesn't abide by the rules of society.",
@@ -2572,7 +2665,7 @@
   {
     "id": "nemesis",
     "word": "Nemesis",
-    "pronunciation": "/ˈnɛməsɪs/",
+    "pronunciation": "/\u02c8n\u025bm\u0259s\u026as/",
     "definitions": [
       {
         "definition": "The inescapable agent of someone's or something's downfall.",
@@ -2587,12 +2680,13 @@
       "His pride became his nemesis, ultimately causing his downfall.",
       "The detective had spent years tracking his nemesis, the elusive jewel thief.",
       "Procrastination was her nemesis throughout college."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/n/nemesi01.mp3"
   },
   {
     "id": "nemophilist",
     "word": "Nemophilist",
-    "pronunciation": "/nɛˈmɒfɪlɪst/",
+    "pronunciation": "/n\u025b\u02c8m\u0252f\u026al\u026ast/",
     "definitions": [
       {
         "definition": "One who is fond of forests or forest scenery; a haunter of woods.",
@@ -2608,7 +2702,7 @@
   {
     "id": "nidificate",
     "word": "Nidificate",
-    "pronunciation": "/nɪˈdɪfɪkeɪt/",
+    "pronunciation": "/n\u026a\u02c8d\u026af\u026ake\u026at/",
     "definitions": [
       {
         "definition": "To build a nest.",
@@ -2624,7 +2718,7 @@
   {
     "id": "novaturient",
     "word": "Novaturient",
-    "pronunciation": "/ˌnoʊvəˈtjʊəriənt/",
+    "pronunciation": "/\u02ccno\u028av\u0259\u02c8tj\u028a\u0259ri\u0259nt/",
     "definitions": [
       {
         "definition": "Desiring or seeking powerful change in one's life, behavior, or situation.",
@@ -2641,7 +2735,7 @@
   {
     "id": "nudiustertian",
     "word": "Nudiustertian",
-    "pronunciation": "/ˌnjuːdiəsˈtɜːʃən/",
+    "pronunciation": "/\u02ccnju\u02d0di\u0259s\u02c8t\u025c\u02d0\u0283\u0259n/",
     "definitions": [
       {
         "definition": "Of or relating to the day before yesterday.",
@@ -2658,7 +2752,7 @@
   {
     "id": "nugatory",
     "word": "Nugatory",
-    "pronunciation": "/ˈnjuːɡətəri/",
+    "pronunciation": "/\u02c8nju\u02d0\u0261\u0259t\u0259ri/",
     "definitions": [
       {
         "definition": "Of no value or importance; trifling.",
@@ -2669,12 +2763,13 @@
       "The contract included several nugatory clauses that added nothing substantial.",
       "His objections proved nugatory when the project received unanimous approval.",
       "She dismissed his concerns as nugatory details that wouldn't affect the outcome."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/n/nugato01.mp3"
   },
   {
     "id": "numinous",
     "word": "Numinous",
-    "pronunciation": "/ˈnjuːmɪnəs/",
+    "pronunciation": "/\u02c8nju\u02d0m\u026an\u0259s/",
     "definitions": [
       {
         "definition": "Having a strong religious or spiritual quality; indicating or suggesting the presence of a divinity.",
@@ -2686,12 +2781,13 @@
       "Many people describe a numinous feeling when witnessing remarkable natural phenomena like eclipses.",
       "The artwork created a numinous space for contemplation and reflection."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/n/numino01.mp3"
   },
   {
     "id": "nyctophilia",
     "word": "Nyctophilia",
-    "pronunciation": "/ˌnɪktəˈfɪliə/",
+    "pronunciation": "/\u02ccn\u026akt\u0259\u02c8f\u026ali\u0259/",
     "definitions": [
       {
         "definition": "A love of darkness or night; finding comfort or peace in the darkness.",
@@ -2708,7 +2804,7 @@
   {
     "id": "obfuscate",
     "word": "Obfuscate",
-    "pronunciation": "/ˈɒbfʌskeɪt/",
+    "pronunciation": "/\u02c8\u0252bf\u028cske\u026at/",
     "definitions": [
       {
         "definition": "To make obscure, unclear, or unintelligible.",
@@ -2723,12 +2819,13 @@
       "The politician tried to obfuscate the issue with technical jargon.",
       "The contract's language was deliberately obfuscated to hide unfavorable terms.",
       "Programmers sometimes obfuscate their code to protect intellectual property."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/obfusc01.mp3"
   },
   {
     "id": "obstreperous",
     "word": "Obstreperous",
-    "pronunciation": "/əbˈstrɛpərəs/",
+    "pronunciation": "/\u0259b\u02c8str\u025bp\u0259r\u0259s/",
     "definitions": [
       {
         "definition": "Noisy and difficult to control.",
@@ -2739,12 +2836,13 @@
       "The obstreperous children made it impossible to hear the museum guide.",
       "After a few drinks, he became obstreperous and had to be asked to leave.",
       "The obstreperous debate in parliament made headlines the next day."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/obstre01.mp3"
   },
   {
     "id": "octothorpe",
     "word": "Octothorpe",
-    "pronunciation": "/ˈɒktəθɔːrp/",
+    "pronunciation": "/\u02c8\u0252kt\u0259\u03b8\u0254\u02d0rp/",
     "definitions": [
       {
         "definition": "The symbol #; hash mark; pound sign.",
@@ -2755,12 +2853,13 @@
       "Before social media, the octothorpe was primarily known as the pound sign on telephone keypads.",
       "The origins of the term 'octothorpe' remain somewhat mysterious, though it likely was coined at Bell Laboratories.",
       "The programmer used octothorpes to indicate comments in the code."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/octoth01.mp3"
   },
   {
     "id": "omphaloskepsis",
     "word": "Omphaloskepsis",
-    "pronunciation": "/ˌɒmfələʊˈskɛpsɪs/",
+    "pronunciation": "/\u02cc\u0252mf\u0259l\u0259\u028a\u02c8sk\u025bps\u026as/",
     "definitions": [
       {
         "definition": "Contemplation of one's navel as an aid to meditation; excessive self-contemplation or self-absorption.",
@@ -2771,12 +2870,13 @@
       "What began as philosophical inquiry had devolved into mere omphaloskepsis.",
       "The retreat aimed to move participants beyond omphaloskepsis toward genuine connection with others.",
       "Critics accused the author of literary omphaloskepsis in his highly autobiographical novels."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/omphal02.mp3"
   },
   {
     "id": "oneiric",
     "word": "Oneiric",
-    "pronunciation": "/əʊˈnaɪrɪk/",
+    "pronunciation": "/\u0259\u028a\u02c8na\u026ar\u026ak/",
     "definitions": [
       {
         "definition": "Relating to dreams or dreaming.",
@@ -2787,12 +2887,13 @@
       "The film director is known for creating oneiric sequences that blur the line between reality and fantasy.",
       "Her paintings have an oneiric quality, as if depicting scenes from half-remembered dreams.",
       "The novel's oneiric narrative makes it challenging but rewarding to follow."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/oneiri01.mp3"
   },
   {
     "id": "onychophagia",
     "word": "Onychophagia",
-    "pronunciation": "/ˌɒnɪkəˈfeɪdʒiə/",
+    "pronunciation": "/\u02cc\u0252n\u026ak\u0259\u02c8fe\u026ad\u0292i\u0259/",
     "definitions": [
       {
         "definition": "The habit of biting one's nails.",
@@ -2803,12 +2904,13 @@
       "Her onychophagia worsened during exams and other stressful periods.",
       "Behavior therapy can be effective in treating chronic onychophagia.",
       "Parents often worry about onychophagia in children, though most outgrow it naturally."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/onych22m.mp3"
   },
   {
     "id": "orphic",
     "word": "Orphic",
-    "pronunciation": "/ˈɔːfɪk/",
+    "pronunciation": "/\u02c8\u0254\u02d0f\u026ak/",
     "definitions": [
       {
         "definition": "Mysterious and entrancing; having an importance beyond ordinary understanding.",
@@ -2819,12 +2921,13 @@
       "The poet's orphic verses seemed to contain hidden meanings that critics debated for decades.",
       "She spoke in orphic pronouncements that left listeners both confused and intrigued.",
       "The film had an orphic quality that transcended its simple plot."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/orphic01.mp3"
   },
   {
     "id": "oscitancy",
     "word": "Oscitancy",
-    "pronunciation": "/ˈɒsɪtənsi/",
+    "pronunciation": "/\u02c8\u0252s\u026at\u0259nsi/",
     "definitions": [
       {
         "definition": "The state of being drowsy or inattentive; dullness.",
@@ -2844,7 +2947,7 @@
   {
     "id": "osculate",
     "word": "Osculate",
-    "pronunciation": "/ˈɒskjʊleɪt/",
+    "pronunciation": "/\u02c8\u0252skj\u028ale\u026at/",
     "definitions": [
       {
         "definition": "To kiss.",
@@ -2859,12 +2962,13 @@
       "The romantic comedy ended with the protagonists finally osculating as the credits rolled.",
       "In mathematics, two curves are said to osculate when they touch at a single point and share the same tangent.",
       "Victorian literature often described characters osculating hands or cheeks as a sign of affection."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/oscula01.mp3"
   },
   {
     "id": "oxter",
     "word": "Oxter",
-    "pronunciation": "/ˈɒkstər/",
+    "pronunciation": "/\u02c8\u0252kst\u0259r/",
     "definitions": [
       {
         "definition": "The armpit or the area under the arm.",
@@ -2879,12 +2983,13 @@
       "The nurse applied the thermometer to the patient's oxter to take his temperature.",
       "She had to oxter her elderly father up the steep staircase.",
       "In Scottish dialect, one might say 'He carried the books under his oxter.'"
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/oxter001.mp3"
   },
   {
     "id": "palimpsest",
     "word": "Palimpsest",
-    "pronunciation": "/ˈpælɪmpsɛst/",
+    "pronunciation": "/\u02c8p\u00e6l\u026amps\u025bst/",
     "definitions": [
       {
         "definition": "A manuscript or piece of writing material on which the original writing has been effaced to make room for later writing but of which traces remain.",
@@ -2900,12 +3005,13 @@
       "The city itself is a palimpsest, with Roman ruins visible beneath Renaissance architecture and modern developments.",
       "Her memoir reads like a palimpsest of memories, each layer partially obscuring yet revealing earlier experiences."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/palimp02.mp3"
   },
   {
     "id": "panacea",
     "word": "Panacea",
-    "pronunciation": "/ˌpænəˈsiːə/",
+    "pronunciation": "/\u02ccp\u00e6n\u0259\u02c8si\u02d0\u0259/",
     "definitions": [
       {
         "definition": "A solution or remedy for all difficulties or diseases.",
@@ -2916,12 +3022,13 @@
       "Exercise is beneficial but not a panacea for all health problems.",
       "The new policy was presented as a panacea for economic inequality, though critics remained skeptical.",
       "Technology is often mistakenly viewed as a panacea for educational challenges."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/panace01.mp3"
   },
   {
     "id": "pandiculation",
     "word": "Pandiculation",
-    "pronunciation": "/pændɪkjʊˈleɪʃən/",
+    "pronunciation": "/p\u00e6nd\u026akj\u028a\u02c8le\u026a\u0283\u0259n/",
     "definitions": [
       {
         "definition": "The act of stretching oneself, especially on waking.",
@@ -2932,12 +3039,13 @@
       "The cat's morning pandiculation ritual included extending each leg one by one.",
       "Experts say that pandiculation is the body's natural way of transitioning from sleep to wakefulness.",
       "His luxurious pandiculation was interrupted by the blaring alarm clock."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pandi01m.mp3"
   },
   {
     "id": "panglossian",
     "word": "Panglossian",
-    "pronunciation": "/pænˈɡlɒsiən/",
+    "pronunciation": "/p\u00e6n\u02c8\u0261l\u0252si\u0259n/",
     "definitions": [
       {
         "definition": "Excessively optimistic, regardless of the circumstances.",
@@ -2948,12 +3056,13 @@
       "His Panglossian outlook on the failing business was at odds with the financial reality.",
       "The Panglossian belief that technology will solve all environmental problems prevents necessary immediate action.",
       "Despite repeated setbacks, she maintained a Panglossian faith that everything would work out perfectly."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/panglo01.mp3"
   },
   {
     "id": "paraph",
     "word": "Paraph",
-    "pronunciation": "/ˈpærəf/",
+    "pronunciation": "/\u02c8p\u00e6r\u0259f/",
     "definitions": [
       {
         "definition": "A flourish made after or below a signature, originally as a precaution against forgery.",
@@ -2968,12 +3077,13 @@
       "The notary recognized the document as authentic by the distinctive paraph beneath the signature.",
       "Medieval scribes often paraphed their work with individualized designs.",
       "His signature included an elaborate paraph that had evolved over decades of signing official documents."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/paraph01.mp3"
   },
   {
     "id": "pareidolia",
     "word": "Pareidolia",
-    "pronunciation": "/ˌpærɪˈdoʊliə/",
+    "pronunciation": "/\u02ccp\u00e6r\u026a\u02c8do\u028ali\u0259/",
     "definitions": [
       {
         "definition": "The tendency to perceive a specific, often meaningful image in a random or ambiguous visual pattern.",
@@ -2985,12 +3095,13 @@
       "The scientist explained that supposed ghost sightings are often cases of pareidolia in low light conditions.",
       "The inkblot test relies on pareidolia to reveal patterns in the subject's thinking."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pareidolia_1.mp3"
   },
   {
     "id": "pauciloquent",
     "word": "Pauciloquent",
-    "pronunciation": "/pɔːˈsɪləkwənt/",
+    "pronunciation": "/p\u0254\u02d0\u02c8s\u026al\u0259kw\u0259nt/",
     "definitions": [
       {
         "definition": "Using few words in speech or conversation; brief in speech.",
@@ -3006,7 +3117,7 @@
   {
     "id": "perfidious",
     "word": "Perfidious",
-    "pronunciation": "/pəˈfɪdiəs/",
+    "pronunciation": "/p\u0259\u02c8f\u026adi\u0259s/",
     "definitions": [
       {
         "definition": "Deceitful and untrustworthy.",
@@ -3017,12 +3128,13 @@
       "The hero was betrayed by his perfidious friend in the final chapter.",
       "Her perfidious behavior destroyed all trust within the team.",
       "The diplomatic cables revealed the seemingly friendly nation to be a perfidious ally."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/perfid01.mp3"
   },
   {
     "id": "peripatetic",
     "word": "Peripatetic",
-    "pronunciation": "/ˌpɛrɪpəˈtɛtɪk/",
+    "pronunciation": "/\u02ccp\u025br\u026ap\u0259\u02c8t\u025bt\u026ak/",
     "definitions": [
       {
         "definition": "Traveling from place to place, especially working or based in various places for relatively short periods.",
@@ -3037,12 +3149,13 @@
       "His peripatetic lifestyle made it difficult to maintain long-term relationships.",
       "She worked as a peripatetic music teacher, visiting five different schools each week.",
       "The peripatetic nature of the consultant's job meant he was rarely home for more than a few days at a time."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/peripa01.mp3"
   },
   {
     "id": "peristeronic",
     "word": "Peristeronic",
-    "pronunciation": "/pɛrɪstəˈrɒnɪk/",
+    "pronunciation": "/p\u025br\u026ast\u0259\u02c8r\u0252n\u026ak/",
     "definitions": [
       {
         "definition": "Of or relating to pigeons.",
@@ -3058,7 +3171,7 @@
   {
     "id": "persiflage",
     "word": "Persiflage",
-    "pronunciation": "/ˈpɜːsɪflɑːʒ/",
+    "pronunciation": "/\u02c8p\u025c\u02d0s\u026afl\u0251\u02d0\u0292/",
     "definitions": [
       {
         "definition": "Light, good-natured mockery or banter.",
@@ -3069,12 +3182,13 @@
       "The dinner party was filled with witty persiflage rather than serious conversation.",
       "Their public interactions consisted mainly of affectionate persiflage that concealed their deep respect for each other.",
       "The talk show host was known for his skilled persiflage that put nervous guests at ease."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/persif02.mp3"
   },
   {
     "id": "perspicacious",
     "word": "Perspicacious",
-    "pronunciation": "/ˌpɜːspɪˈkeɪʃəs/",
+    "pronunciation": "/\u02ccp\u025c\u02d0sp\u026a\u02c8ke\u026a\u0283\u0259s/",
     "definitions": [
       {
         "definition": "Having keen mental perception and understanding; discerning.",
@@ -3085,12 +3199,13 @@
       "Her perspicacious analysis identified problems that others had missed entirely.",
       "The perspicacious detective noticed the subtle inconsistency in the suspect's story.",
       "As a perspicacious investor, she anticipated market trends before they became obvious."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/perspi01.mp3"
   },
   {
     "id": "petrichor",
     "word": "Petrichor",
-    "pronunciation": "/ˈpɛtrɪkɔːr/",
+    "pronunciation": "/\u02c8p\u025btr\u026ak\u0254\u02d0r/",
     "definitions": [
       {
         "definition": "The pleasant earthy smell after rain, especially after a long dry period.",
@@ -3102,12 +3217,13 @@
       "Scientists have identified the chemical compounds responsible for petrichor.",
       "She opened the windows wide to let the petrichor fill the house."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/petrichor_1.mp3"
   },
   {
     "id": "phantasmagoria",
     "word": "Phantasmagoria",
-    "pronunciation": "/ˌfæntæzməˈɡɔːriə/",
+    "pronunciation": "/\u02ccf\u00e6nt\u00e6zm\u0259\u02c8\u0261\u0254\u02d0ri\u0259/",
     "definitions": [
       {
         "definition": "A sequence of real or imaginary images like those seen in a dream.",
@@ -3122,12 +3238,13 @@
       "The fever induced a phantasmagoria of strange creatures and landscapes.",
       "The film was a phantasmagoria of surreal images and discordant sounds.",
       "The fairground's hall of mirrors created a phantasmagoria that delighted and disoriented visitors."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/phanta06.mp3"
   },
   {
     "id": "philomath",
     "word": "Philomath",
-    "pronunciation": "/ˈfɪləmæθ/",
+    "pronunciation": "/\u02c8f\u026al\u0259m\u00e6\u03b8/",
     "definitions": [
       {
         "definition": "A lover of learning; a scholar or intellectual.",
@@ -3143,7 +3260,7 @@
   {
     "id": "phosphene",
     "word": "Phosphene",
-    "pronunciation": "/ˈfɒsfiːn/",
+    "pronunciation": "/\u02c8f\u0252sfi\u02d0n/",
     "definitions": [
       {
         "definition": "A ring or spot of light produced by pressure on the eyeball or direct electrical stimulation of the visual system.",
@@ -3154,12 +3271,13 @@
       "Rubbing your eyes can produce phosphenes, which appear as temporary flashes or patterns of light.",
       "The migraine started with phosphenes that obscured parts of her vision.",
       "Some meditation practitioners report seeing phosphenes during deep concentration."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/phosph14.mp3"
   },
   {
     "id": "phosphenes",
     "word": "Phosphenes",
-    "pronunciation": "/ˈfɒsfiːnz/",
+    "pronunciation": "/\u02c8f\u0252sfi\u02d0nz/",
     "definitions": [
       {
         "definition": "The sensation of seeing light or stars when pressure is applied to the eyes.",
@@ -3171,12 +3289,13 @@
       "The neuroscientist studied phosphenes to better understand visual processing in the brain.",
       "Some meditation practitioners report seeing phosphenes during deep concentration."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/phosph14.mp3"
   },
   {
     "id": "plangent",
     "word": "Plangent",
-    "pronunciation": "/ˈplændʒənt/",
+    "pronunciation": "/\u02c8pl\u00e6nd\u0292\u0259nt/",
     "definitions": [
       {
         "definition": "Having a loud, reverberating sound, often with a mournful quality.",
@@ -3191,12 +3310,13 @@
       "The plangent tone of the church bells echoed through the valley.",
       "Her plangent voice conveyed the sorrow of the tragic ballad.",
       "The novel ends with a plangent meditation on loss and memory."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/plange02.mp3"
   },
   {
     "id": "pogonotrophy",
     "word": "Pogonotrophy",
-    "pronunciation": "/pəʊɡəˈnɒtrəfi/",
+    "pronunciation": "/p\u0259\u028a\u0261\u0259\u02c8n\u0252tr\u0259fi/",
     "definitions": [
       {
         "definition": "The cultivation of a beard or facial hair.",
@@ -3212,7 +3332,7 @@
   {
     "id": "pronoia",
     "word": "Pronoia",
-    "pronunciation": "/prəˈnɔɪə/",
+    "pronunciation": "/pr\u0259\u02c8n\u0254\u026a\u0259/",
     "definitions": [
       {
         "definition": "The opposite of paranoia; the suspicion that others are plotting your well-being or success in life.",
@@ -3229,7 +3349,7 @@
   {
     "id": "psithurism",
     "word": "Psithurism",
-    "pronunciation": "/ˈsɪθərɪzəm/",
+    "pronunciation": "/\u02c8s\u026a\u03b8\u0259r\u026az\u0259m/",
     "definitions": [
       {
         "definition": "The sound of wind in trees and rustling leaves.",
@@ -3246,7 +3366,7 @@
   {
     "id": "querencia",
     "word": "Querencia",
-    "pronunciation": "/kəˈrɛnsiə/",
+    "pronunciation": "/k\u0259\u02c8r\u025bnsi\u0259/",
     "definitions": [
       {
         "definition": "A place where one feels safe, a place from which one's strength of character is drawn, a place where one feels at home.",
@@ -3262,7 +3382,7 @@
   {
     "id": "quiddity",
     "word": "Quiddity",
-    "pronunciation": "/ˈkwɪdɪti/",
+    "pronunciation": "/\u02c8kw\u026ad\u026ati/",
     "definitions": [
       {
         "definition": "The essential nature or inherent quality of something.",
@@ -3277,12 +3397,13 @@
       "The philosopher's work sought to understand the quiddity of consciousness itself.",
       "Her photographs aimed to capture the quiddity of everyday objects rather than their mere appearance.",
       "The debate deteriorated into legal quiddities that obscured the moral issue at stake."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/quiddi01.mp3"
   },
   {
     "id": "quincunx",
     "word": "Quincunx",
-    "pronunciation": "/ˈkwɪnkʌŋks/",
+    "pronunciation": "/\u02c8kw\u026ank\u028c\u014bks/",
     "definitions": [
       {
         "definition": "An arrangement of five objects with four at the corners of a square or rectangle and the fifth at its center.",
@@ -3293,12 +3414,13 @@
       "The five dots on a die forming the number five are arranged in a quincunx pattern.",
       "Ancient Roman orchards often used a quincunx planting arrangement for efficient use of space.",
       "The garden's quincunx design placed a fountain at the center of four symmetrical flower beds."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/quincu01.mp3"
   },
   {
     "id": "quire",
     "word": "Quire",
-    "pronunciation": "/kwaɪər/",
+    "pronunciation": "/kwa\u026a\u0259r/",
     "definitions": [
       {
         "definition": "A set of 24 or 25 sheets of paper of the same size and quality; one-twentieth of a ream.",
@@ -3313,12 +3435,13 @@
       "The stationer sold paper by the quire for small projects or by the ream for larger ones.",
       "The medieval manuscript consisted of twelve quires bound together with stitched leather.",
       "Before beginning the calligraphy project, she carefully divided the paper into quires."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/quire001.mp3"
   },
   {
     "id": "quixotic",
     "word": "Quixotic",
-    "pronunciation": "/kwɪkˈsɒtɪk/",
+    "pronunciation": "/kw\u026ak\u02c8s\u0252t\u026ak/",
     "definitions": [
       {
         "definition": "Exceedingly idealistic; unrealistic and impractical.",
@@ -3333,12 +3456,13 @@
       "His quixotic plan to solve world hunger in a year earned sympathetic smiles from his colleagues.",
       "She pursued her quixotic dreams despite everyone telling her they were impossible.",
       "The quixotic nature of his proposals made them poetic but ultimately unfeasible."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/quixot05.mp3"
   },
   {
     "id": "quockerwodger",
     "word": "Quockerwodger",
-    "pronunciation": "/ˈkwɒkəwɒdʒə/",
+    "pronunciation": "/\u02c8kw\u0252k\u0259w\u0252d\u0292\u0259/",
     "definitions": [
       {
         "definition": "A wooden puppet controlled by strings; figuratively, a politician who has his or her strings pulled by someone else.",
@@ -3354,7 +3478,7 @@
   {
     "id": "quotidian",
     "word": "Quotidian",
-    "pronunciation": "/kwɒˈtɪdiən/",
+    "pronunciation": "/kw\u0252\u02c8t\u026adi\u0259n/",
     "definitions": [
       {
         "definition": "Of or occurring every day; daily.",
@@ -3369,12 +3493,13 @@
       "Her photographs find beauty in quotidian moments that most people overlook.",
       "The novel explores how extraordinary events disrupt the quotidian rhythms of small-town life.",
       "He found comfort in the quotidian routine of making coffee each morning."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/quotid01.mp3"
   },
   {
     "id": "recondite",
     "word": "Recondite",
-    "pronunciation": "/ˈrɛkəndaɪt/",
+    "pronunciation": "/\u02c8r\u025bk\u0259nda\u026at/",
     "definitions": [
       {
         "definition": "Little known; abstruse; difficult to understand.",
@@ -3385,12 +3510,13 @@
       "The paper was filled with recondite terminology that only specialists in the field would recognize.",
       "She specialized in the most recondite aspects of medieval philosophy.",
       "His lectures were popular despite covering recondite subjects because he made them accessible to beginners."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recond02.mp3"
   },
   {
     "id": "redolent",
     "word": "Redolent",
-    "pronunciation": "/ˈrɛdələnt/",
+    "pronunciation": "/\u02c8r\u025bd\u0259l\u0259nt/",
     "definitions": [
       {
         "definition": "Strongly reminiscent or suggestive of something.",
@@ -3405,12 +3531,13 @@
       "The old letters were redolent of a bygone era.",
       "The kitchen was redolent with the aroma of freshly baked bread.",
       "His writing style is redolent of Hemingway's spare prose."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/redole02.mp3"
   },
   {
     "id": "resistentialism",
     "word": "Resistentialism",
-    "pronunciation": "/rɪˌzɪstɛnˈʃəlɪzəm/",
+    "pronunciation": "/r\u026a\u02ccz\u026ast\u025bn\u02c8\u0283\u0259l\u026az\u0259m/",
     "definitions": [
       {
         "definition": "The seemingly spiteful behavior of inanimate objects; the theory that inanimate objects demonstrate hostile behavior toward humans.",
@@ -3427,7 +3554,7 @@
   {
     "id": "riparian",
     "word": "Riparian",
-    "pronunciation": "/rɪˈpɛəriən/",
+    "pronunciation": "/r\u026a\u02c8p\u025b\u0259ri\u0259n/",
     "definitions": [
       {
         "definition": "Relating to or situated on the banks of a river.",
@@ -3442,12 +3569,13 @@
       "Riparian vegetation helps prevent erosion and provides habitat for numerous species.",
       "The dispute between riparians over water rights went to court.",
       "Local conservation efforts focused on restoring damaged riparian zones."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/ripari01.mp3"
   },
   {
     "id": "salubrious",
     "word": "Salubrious",
-    "pronunciation": "/səˈluːbriəs/",
+    "pronunciation": "/s\u0259\u02c8lu\u02d0bri\u0259s/",
     "definitions": [
       {
         "definition": "Health-giving; healthy; promoting health or well-being.",
@@ -3458,12 +3586,13 @@
       "The doctor recommended a vacation in a salubrious climate to aid her recovery.",
       "Victorian-era resorts advertised the salubrious effects of sea air and mineral waters.",
       "His salubrious lifestyle of good diet, regular exercise, and adequate sleep contributed to his longevity."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/salubr01.mp3"
   },
   {
     "id": "saudade",
     "word": "Saudade",
-    "pronunciation": "/saʊˈdɑːdə/",
+    "pronunciation": "/sa\u028a\u02c8d\u0251\u02d0d\u0259/",
     "definitions": [
       {
         "definition": "A deep emotional state of melancholic longing for a person or thing that is absent or lost.",
@@ -3480,7 +3609,7 @@
   {
     "id": "sciamachy",
     "word": "Sciamachy",
-    "pronunciation": "/saɪˈæməki/",
+    "pronunciation": "/sa\u026a\u02c8\u00e6m\u0259ki/",
     "definitions": [
       {
         "definition": "An act or instance of fighting a shadow or an imaginary enemy.",
@@ -3496,7 +3625,7 @@
   {
     "id": "scintilla",
     "word": "Scintilla",
-    "pronunciation": "/sɪnˈtɪlə/",
+    "pronunciation": "/s\u026an\u02c8t\u026al\u0259/",
     "definitions": [
       {
         "definition": "A tiny trace or spark of a specified quality or feeling.",
@@ -3507,12 +3636,13 @@
       "There wasn't a scintilla of evidence to support his wild claims.",
       "Even a scintilla of doubt should be enough to reconsider such a major decision.",
       "The detective searched for even a scintilla of proof that would link the suspect to the crime scene."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/scinti03.mp3"
   },
   {
     "id": "scintillating",
     "word": "Scintillating",
-    "pronunciation": "/ˈsɪntɪleɪtɪŋ/",
+    "pronunciation": "/\u02c8s\u026ant\u026ale\u026at\u026a\u014b/",
     "definitions": [
       {
         "definition": "Sparkling or shining brightly.",
@@ -3527,12 +3657,13 @@
       "The night sky was scintillating with countless stars.",
       "Her scintillating wit made her the most sought-after dinner guest in the city.",
       "The critic described the performance as scintillating, captivating the audience from start to finish."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/scint01ld.mp3"
   },
   {
     "id": "scriptophobia",
     "word": "Scriptophobia",
-    "pronunciation": "/skrɪptəˈfəʊbiə/",
+    "pronunciation": "/skr\u026apt\u0259\u02c8f\u0259\u028abi\u0259/",
     "definitions": [
       {
         "definition": "An abnormal fear of writing in public.",
@@ -3548,7 +3679,7 @@
   {
     "id": "scrumptious",
     "word": "Scrumptious",
-    "pronunciation": "/ˈskrʌm(p)ʃəs/",
+    "pronunciation": "/\u02c8skr\u028cm(p)\u0283\u0259s/",
     "definitions": [
       {
         "definition": "Extremely delicious; delightful.",
@@ -3559,12 +3690,13 @@
       "The homemade apple pie was absolutely scrumptious.",
       "She prepared a scrumptious feast for her dinner guests.",
       "The food critic described the dessert as scrumptious in his review."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/scrump01.mp3"
   },
   {
     "id": "selcouth",
     "word": "Selcouth",
-    "pronunciation": "/ˈsɛlkuːθ/",
+    "pronunciation": "/\u02c8s\u025blku\u02d0\u03b8/",
     "definitions": [
       {
         "definition": "Strange, unusual, rare; unfamiliar and marvelous.",
@@ -3575,12 +3707,13 @@
       "The traveler described selcouth customs that were practiced nowhere else in the world.",
       "The novel transported readers to a selcouth realm where ordinary laws of physics didn't apply.",
       "There was something selcouth about the abandoned mansion that both frightened and fascinated visitors."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/selcou01.mp3"
   },
   {
     "id": "sempiternal",
     "word": "Sempiternal",
-    "pronunciation": "/ˌsɛmpɪˈtɜːnl/",
+    "pronunciation": "/\u02ccs\u025bmp\u026a\u02c8t\u025c\u02d0nl/",
     "definitions": [
       {
         "definition": "Eternal and unchanging; everlasting.",
@@ -3591,12 +3724,13 @@
       "Their vows spoke of a sempiternal love that would transcend even death.",
       "Many religions posit a sempiternal afterlife or divine presence.",
       "The mountain stood as a sempiternal sentinel over the changing landscape below."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/sempit01.mp3"
   },
   {
     "id": "sequipedalian",
     "word": "Sequipedalian",
-    "pronunciation": "/ˌsɛskwɪpɪˈdeɪliən/",
+    "pronunciation": "/\u02ccs\u025bskw\u026ap\u026a\u02c8de\u026ali\u0259n/",
     "definitions": [
       {
         "definition": "Characterized by long words; long-winded.",
@@ -3616,7 +3750,7 @@
   {
     "id": "serendipity",
     "word": "Serendipity",
-    "pronunciation": "/ˌsɛrənˈdɪpɪti/",
+    "pronunciation": "/\u02ccs\u025br\u0259n\u02c8d\u026ap\u026ati/",
     "definitions": [
       {
         "definition": "The occurrence and development of events by chance in a happy or beneficial way.",
@@ -3624,16 +3758,17 @@
       }
     ],
     "examples": [
-      "Their meeting was pure serendipity—they were both reaching for the same book in the library.",
+      "Their meeting was pure serendipity\u2014they were both reaching for the same book in the library.",
       "By serendipity, she discovered her talent for painting while helping her daughter with an art project.",
       "The discovery of penicillin was a case of serendipity in scientific research."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/serend02.mp3"
   },
   {
     "id": "sesquipedalian",
     "word": "Sesquipedalian",
-    "pronunciation": "/ˌsɛskwɪpɪˈdeɪliən/",
+    "pronunciation": "/\u02ccs\u025bskw\u026ap\u026a\u02c8de\u026ali\u0259n/",
     "definitions": [
       {
         "definition": "Given to using long words.",
@@ -3649,12 +3784,13 @@
       "The professor was known for his sesquipedalian vocabulary, which intimidated new students.",
       "The word 'sesquipedalian' is itself an example of a sesquipedalian."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/sesqui04.mp3"
   },
   {
     "id": "sfumato",
     "word": "Sfumato",
-    "pronunciation": "/sfuːˈmɑːtəʊ/",
+    "pronunciation": "/sfu\u02d0\u02c8m\u0251\u02d0t\u0259\u028a/",
     "definitions": [
       {
         "definition": "A painting technique that produces soft, hazy transitions between colors and tones.",
@@ -3666,12 +3802,13 @@
       "The artist used sfumato to suggest the misty atmosphere of the mountainous landscape.",
       "Modern painters still study sfumato to achieve subtle gradations in their work."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/sfumat01.mp3"
   },
   {
     "id": "sgiomlaireachd",
     "word": "Sgiomlaireachd",
-    "pronunciation": "/skɪˈmlarəxk/",
+    "pronunciation": "/sk\u026a\u02c8mlar\u0259xk/",
     "definitions": [
       {
         "definition": "The habit of dropping in at mealtimes.",
@@ -3687,7 +3824,7 @@
   {
     "id": "sillage",
     "word": "Sillage",
-    "pronunciation": "/siːˈjɑːʒ/",
+    "pronunciation": "/si\u02d0\u02c8j\u0251\u02d0\u0292/",
     "definitions": [
       {
         "definition": "The trail of scent left by someone wearing perfume.",
@@ -3703,7 +3840,7 @@
   {
     "id": "skeuomorph",
     "word": "Skeuomorph",
-    "pronunciation": "/ˈskjuːəmɔːrf/",
+    "pronunciation": "/\u02c8skju\u02d0\u0259m\u0254\u02d0rf/",
     "definitions": [
       {
         "definition": "A design feature copied from a similar feature in another object, even when not functionally necessary.",
@@ -3720,7 +3857,7 @@
   {
     "id": "smithereens",
     "word": "Smithereens",
-    "pronunciation": "/ˌsmɪðəˈriːnz/",
+    "pronunciation": "/\u02ccsm\u026a\u00f0\u0259\u02c8ri\u02d0nz/",
     "definitions": [
       {
         "definition": "Small fragments; tiny pieces.",
@@ -3731,12 +3868,13 @@
       "The vase fell and shattered into smithereens on the tile floor.",
       "The explosion reduced the building to smithereens.",
       "His carefully constructed argument was blown to smithereens by the opposing evidence."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/smithe01.mp3"
   },
   {
     "id": "sobriquet",
     "word": "Sobriquet",
-    "pronunciation": "/ˈsəʊbrɪkeɪ/",
+    "pronunciation": "/\u02c8s\u0259\u028abr\u026ake\u026a/",
     "definitions": [
       {
         "definition": "A nickname, especially one given to a person that is descriptive in a humorous way.",
@@ -3747,12 +3885,13 @@
       "William 'Refrigerator' Perry earned his sobriquet due to his immense size and strength.",
       "The sobriquet 'The Iron Lady' perfectly captured Margaret Thatcher's resolute leadership style.",
       "Throughout history, kings and queens have often been known by sobriquets that reflected their character or achievements."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/sobriq01.mp3"
   },
   {
     "id": "soliloquize",
     "word": "Soliloquize",
-    "pronunciation": "/səˈlɪləkwaɪz/",
+    "pronunciation": "/s\u0259\u02c8l\u026al\u0259kwa\u026az/",
     "definitions": [
       {
         "definition": "To utter a soliloquy; to talk to oneself.",
@@ -3763,12 +3902,13 @@
       "The elderly professor would often soliloquize while walking through the campus gardens.",
       "Hamlet's famous 'To be or not to be' occurs when he soliloquizes about existence and suicide.",
       "Modern films rarely allow characters to soliloquize, preferring voiceover narration for inner thoughts."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/solilo02.mp3"
   },
   {
     "id": "somniloquy",
     "word": "Somniloquy",
-    "pronunciation": "/sɒmˈnɪləkwi/",
+    "pronunciation": "/s\u0252m\u02c8n\u026al\u0259kwi/",
     "definitions": [
       {
         "definition": "The act or habit of talking in one's sleep.",
@@ -3779,12 +3919,13 @@
       "His roommate was disturbed by his frequent somniloquy, which sometimes included shouting.",
       "Researchers recorded episodes of somniloquy to study subconscious language patterns.",
       "Her somniloquy revealed a fluency in Spanish that she struggled to access while awake."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/somni02m.mp3"
   },
   {
     "id": "sonder",
     "word": "Sonder",
-    "pronunciation": "/ˈsɒndər/",
+    "pronunciation": "/\u02c8s\u0252nd\u0259r/",
     "definitions": [
       {
         "definition": "The profound realization that each random passerby is living a life as vivid and complex as your own.",
@@ -3801,7 +3942,7 @@
   {
     "id": "soporific",
     "word": "Soporific",
-    "pronunciation": "/ˌsɒpəˈrɪfɪk/",
+    "pronunciation": "/\u02ccs\u0252p\u0259\u02c8r\u026af\u026ak/",
     "definitions": [
       {
         "definition": "Tending to induce drowsiness or sleep.",
@@ -3816,12 +3957,13 @@
       "The professor's monotonous voice had a soporific effect on the entire class.",
       "The herbal tea contained several natural soporifics to aid with insomnia.",
       "The soporific quality of the heavy meal made it difficult to return to work afterward."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/sopori02.mp3"
   },
   {
-    "id": "sprachgefühl",
-    "word": "Sprachgefühl",
-    "pronunciation": "/ˈʃprɑːxɡəˌfuːl/",
+    "id": "sprachgef\u00fchl",
+    "word": "Sprachgef\u00fchl",
+    "pronunciation": "/\u02c8\u0283pr\u0251\u02d0x\u0261\u0259\u02ccfu\u02d0l/",
     "definitions": [
       {
         "definition": "An intuitive sense of what is linguistically appropriate; an ear for idioms and syntax.",
@@ -3829,15 +3971,16 @@
       }
     ],
     "examples": [
-      "Native speakers develop sprachgefühl naturally, knowing when something sounds right without necessarily being able to explain the grammatical rules.",
-      "The translator's excellent sprachgefühl allowed her to create natural-sounding dialogue in the target language.",
-      "Learning idiomatic expressions can help language students develop their sprachgefühl."
-    ]
+      "Native speakers develop sprachgef\u00fchl naturally, knowing when something sounds right without necessarily being able to explain the grammatical rules.",
+      "The translator's excellent sprachgef\u00fchl allowed her to create natural-sounding dialogue in the target language.",
+      "Learning idiomatic expressions can help language students develop their sprachgef\u00fchl."
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/sprach01.mp3"
   },
   {
     "id": "susurration",
     "word": "Susurration",
-    "pronunciation": "/ˌsuːsəˈreɪʃən/",
+    "pronunciation": "/\u02ccsu\u02d0s\u0259\u02c8re\u026a\u0283\u0259n/",
     "definitions": [
       {
         "definition": "A soft murmuring or rustling sound; a whisper.",
@@ -3848,12 +3991,13 @@
       "The susurration of leaves in the breeze was the only sound in the forest.",
       "There was a constant susurration of gossip following the unexpected announcement.",
       "The gentle susurration of the stream helped her fall asleep despite her worries."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/susurr01.mp3"
   },
   {
     "id": "susurrus",
     "word": "Susurrus",
-    "pronunciation": "/səˈsʊrəs/",
+    "pronunciation": "/s\u0259\u02c8s\u028ar\u0259s/",
     "definitions": [
       {
         "definition": "A whispering or rustling sound.",
@@ -3864,12 +4008,13 @@
       "The susurrus of leaves in the breeze was the only sound in the forest.",
       "She could hear the susurrus of hushed conversations as she entered the room.",
       "The poem attempted to capture in words the gentle susurrus of waves on a pebble beach."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/susurr03.mp3"
   },
   {
     "id": "syzygy",
     "word": "Syzygy",
-    "pronunciation": "/ˈsɪzɪdʒi/",
+    "pronunciation": "/\u02c8s\u026az\u026ad\u0292i/",
     "definitions": [
       {
         "definition": "An alignment of three celestial bodies (such as the sun, moon, and earth) in a straight line.",
@@ -3885,12 +4030,13 @@
       "The poet explored the syzygy between human emotion and natural phenomena.",
       "Astronomers carefully track the timing of planetary syzygies to plan observations."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/syzygy01.mp3"
   },
   {
     "id": "taradiddle",
     "word": "Taradiddle",
-    "pronunciation": "/tæˈrædɪdl/",
+    "pronunciation": "/t\u00e6\u02c8r\u00e6d\u026adl/",
     "definitions": [
       {
         "definition": "A small lie; a fib.",
@@ -3905,12 +4051,13 @@
       "The child told a charming taradiddle about fairies stealing the missing cookies.",
       "Political speeches are often full of taradiddle designed to appeal to voters without making concrete promises.",
       "Her explanation was dismissed as mere taradiddle by those who knew the truth."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/taradi01.mp3"
   },
   {
     "id": "tarradiddle",
     "word": "Tarradiddle",
-    "pronunciation": "/ˌtærəˈdɪdl/",
+    "pronunciation": "/\u02cct\u00e6r\u0259\u02c8d\u026adl/",
     "definitions": [
       {
         "definition": "A petty lie or fabrication.",
@@ -3921,12 +4068,13 @@
       "The child told a charming tarradiddle about why the cookies had disappeared.",
       "The memoir was filled with tarradiddles that exaggerated the author's adventures.",
       "She considered the white lie a harmless tarradiddle to spare her friend's feelings."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/taradi01.mp3"
   },
   {
     "id": "thalassophile",
     "word": "Thalassophile",
-    "pronunciation": "/θəˈlæsəfaɪl/",
+    "pronunciation": "/\u03b8\u0259\u02c8l\u00e6s\u0259fa\u026al/",
     "definitions": [
       {
         "definition": "A lover of the sea or ocean; someone who finds peace or joy near the ocean.",
@@ -3943,7 +4091,7 @@
   {
     "id": "tintinnabulation",
     "word": "Tintinnabulation",
-    "pronunciation": "/ˌtɪntɪnæbjʊˈleɪʃən/",
+    "pronunciation": "/\u02cct\u026ant\u026an\u00e6bj\u028a\u02c8le\u026a\u0283\u0259n/",
     "definitions": [
       {
         "definition": "The ringing or sound of bells.",
@@ -3954,12 +4102,13 @@
       "The tintinnabulation of the church bells echoed through the valley every Sunday morning.",
       "Edgar Allan Poe's poem 'The Bells' uses the word 'tintinnabulation' to evoke the lingering sound of bells.",
       "The gentle tintinnabulation of wind chimes filled the garden."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tintin02.mp3"
   },
   {
     "id": "tmesis",
     "word": "Tmesis",
-    "pronunciation": "/ˈtmiːsɪs/",
+    "pronunciation": "/\u02c8tmi\u02d0s\u026as/",
     "definitions": [
       {
         "definition": "The separation of parts of a compound word by an intervening word or words, used for emphasis or humorous effect.",
@@ -3971,12 +4120,13 @@
       "Shakespeare used tmesis in 'Othello' with the line 'This is the monst-terrible oath that I can give.'",
       "Australian English frequently employs tmesis in expressions like 'abso-bloody-lutely'."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tmesis01.mp3"
   },
   {
     "id": "torpid",
     "word": "Torpid",
-    "pronunciation": "/ˈtɔːpɪd/",
+    "pronunciation": "/\u02c8t\u0254\u02d0p\u026ad/",
     "definitions": [
       {
         "definition": "Mentally or physically inactive; lethargic.",
@@ -3991,12 +4141,13 @@
       "The extreme heat left everyone torpid and unable to concentrate.",
       "Many reptiles become torpid during cold weather.",
       "The economy remained torpid despite attempts to stimulate growth."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/torpid01.mp3"
   },
   {
     "id": "trenchant",
     "word": "Trenchant",
-    "pronunciation": "/ˈtrɛntʃənt/",
+    "pronunciation": "/\u02c8tr\u025bnt\u0283\u0259nt/",
     "definitions": [
       {
         "definition": "Vigorous or incisive in expression or style.",
@@ -4011,12 +4162,13 @@
       "Her trenchant analysis of the policy revealed its fundamental flaws.",
       "The book review was so trenchant that the author publicly responded to defend his work.",
       "His trenchant wit made him a popular but feared dinner guest."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/trench03.mp3"
   },
   {
     "id": "tyrosemiophile",
     "word": "Tyrosemiophile",
-    "pronunciation": "/taɪrəʊˈsiːmiəfaɪl/",
+    "pronunciation": "/ta\u026ar\u0259\u028a\u02c8si\u02d0mi\u0259fa\u026al/",
     "definitions": [
       {
         "definition": "A collector of cheese labels.",
@@ -4032,7 +4184,7 @@
   {
     "id": "ulotrichous",
     "word": "Ulotrichous",
-    "pronunciation": "/juːˈlɒtrɪkəs/",
+    "pronunciation": "/ju\u02d0\u02c8l\u0252tr\u026ak\u0259s/",
     "definitions": [
       {
         "definition": "Having woolly or crispy hair.",
@@ -4048,7 +4200,7 @@
   {
     "id": "ultracrepidarian",
     "word": "Ultracrepidarian",
-    "pronunciation": "/ˌʌltrəkrɛpɪˈdɛəriən/",
+    "pronunciation": "/\u02cc\u028cltr\u0259kr\u025bp\u026a\u02c8d\u025b\u0259ri\u0259n/",
     "definitions": [
       {
         "definition": "Expressing opinions on matters outside the scope of one's knowledge or expertise.",
@@ -4069,7 +4221,7 @@
   {
     "id": "umami",
     "word": "Umami",
-    "pronunciation": "/uːˈmɑːmi/",
+    "pronunciation": "/u\u02d0\u02c8m\u0251\u02d0mi/",
     "definitions": [
       {
         "definition": "A category of taste in food corresponding to the flavor of glutamates, especially monosodium glutamate; a savory taste.",
@@ -4081,12 +4233,13 @@
       "Aged cheeses and fermented foods are rich in umami compounds.",
       "The chef described umami as the fifth taste, complementing sweet, sour, salty, and bitter."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/umami01m.mp3"
   },
   {
     "id": "umbriferous",
     "word": "Umbriferous",
-    "pronunciation": "/ʌmˈbrɪfərəs/",
+    "pronunciation": "/\u028cm\u02c8br\u026af\u0259r\u0259s/",
     "definitions": [
       {
         "definition": "Casting or making shade.",
@@ -4102,7 +4255,7 @@
   {
     "id": "velleity",
     "word": "Velleity",
-    "pronunciation": "/vɛˈliːɪti/",
+    "pronunciation": "/v\u025b\u02c8li\u02d0\u026ati/",
     "definitions": [
       {
         "definition": "A wish or inclination not strong enough to lead to action.",
@@ -4113,12 +4266,13 @@
       "His velleity to learn Japanese never progressed beyond purchasing a textbook that remained unopened.",
       "New Year's resolutions often remain mere velleities, abandoned by February.",
       "She had a persistent velleity to visit Antarctica, but never seriously researched or planned such a trip."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vellei01.mp3"
   },
   {
     "id": "vellichor",
     "word": "Vellichor",
-    "pronunciation": "/vɛlɪkɔːr/",
+    "pronunciation": "/v\u025bl\u026ak\u0254\u02d0r/",
     "definitions": [
       {
         "definition": "The strange wistfulness of used bookstores, which are somehow infused with the passage of time.",
@@ -4134,7 +4288,7 @@
   {
     "id": "verisimilitude",
     "word": "Verisimilitude",
-    "pronunciation": "/ˌvɛrɪsɪˈmɪlɪtjuːd/",
+    "pronunciation": "/\u02ccv\u025br\u026as\u026a\u02c8m\u026al\u026atju\u02d0d/",
     "definitions": [
       {
         "definition": "The appearance of being true or real.",
@@ -4145,12 +4299,13 @@
       "The historical drama was praised for its verisimilitude in depicting 18th-century London.",
       "Good science fiction maintains verisimilitude by creating consistent rules for its imagined world.",
       "The courtroom scene lacked verisimilitude, containing procedures that would never happen in an actual trial."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/verisi02.mp3"
   },
   {
     "id": "virgule",
     "word": "Virgule",
-    "pronunciation": "/ˈvɜːɡjuːl/",
+    "pronunciation": "/\u02c8v\u025c\u02d0\u0261ju\u02d0l/",
     "definitions": [
       {
         "definition": "A diagonal stroke (/) used especially to separate alternatives, as in 'and/or'.",
@@ -4161,12 +4316,13 @@
       "The poet used the virgule to indicate line breaks when quoting verse within prose.",
       "Legal documents often employ the virgule in constructions like 'he/she' to ensure gender neutrality.",
       "The editor replaced all instances of 'and-or' with 'and/or', employing the virgule for clarity."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/virgul01.mp3"
   },
   {
     "id": "wabbit",
     "word": "Wabbit",
-    "pronunciation": "/ˈwæbɪt/",
+    "pronunciation": "/\u02c8w\u00e6b\u026at/",
     "definitions": [
       {
         "definition": "Exhausted, worn out, or tired; slightly unwell.",
@@ -4182,7 +4338,7 @@
   {
     "id": "wamblecropt",
     "word": "Wamblecropt",
-    "pronunciation": "/ˈwɒmbəlkrɒpt/",
+    "pronunciation": "/\u02c8w\u0252mb\u0259lkr\u0252pt/",
     "definitions": [
       {
         "definition": "Overcome with indigestion; sick with nausea.",
@@ -4198,7 +4354,7 @@
   {
     "id": "weltschmerz",
     "word": "Weltschmerz",
-    "pronunciation": "/ˈvɛltʃmɛrts/",
+    "pronunciation": "/\u02c8v\u025blt\u0283m\u025brts/",
     "definitions": [
       {
         "definition": "A feeling of melancholy and world-weariness.",
@@ -4210,12 +4366,13 @@
       "Reading the news headlines induced a temporary weltschmerz that colored her whole day.",
       "His weltschmerz deepened as he realized how far reality fell short of his ideals."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/w/weltsc01.mp3"
   },
   {
     "id": "whiligig",
     "word": "Whiligig",
-    "pronunciation": "/ˈwɪlɪɡɪɡ/",
+    "pronunciation": "/\u02c8w\u026al\u026a\u0261\u026a\u0261/",
     "definitions": [
       {
         "definition": "A toy that spins or whirls, such as a top or pinwheel.",
@@ -4239,7 +4396,7 @@
   {
     "id": "widdershins",
     "word": "Widdershins",
-    "pronunciation": "/ˈwɪdərʃɪnz/",
+    "pronunciation": "/\u02c8w\u026ad\u0259r\u0283\u026anz/",
     "definitions": [
       {
         "definition": "In a direction contrary to the sun's course, counterclockwise.",
@@ -4253,13 +4410,14 @@
     "examples": [
       "Ancient superstitions warned against walking widdershins around a church.",
       "The ritual required participants to move widdershins around the stone circle three times.",
-      "Her life seemed to be moving widdershins to everyone else's—sleeping during the day and working through the night."
-    ]
+      "Her life seemed to be moving widdershins to everyone else's\u2014sleeping during the day and working through the night."
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/w/widder01.mp3"
   },
   {
     "id": "witzelsucht",
     "word": "Witzelsucht",
-    "pronunciation": "/ˈvɪtsəlzʊxt/",
+    "pronunciation": "/\u02c8v\u026ats\u0259lz\u028axt/",
     "definitions": [
       {
         "definition": "A neurological condition characterized by a tendency to make inappropriate jokes and puns, and to tell pointless or irrelevant stories, usually resulting from damage to the brain.",
@@ -4271,12 +4429,13 @@
       "The neurologist diagnosed witzelsucht when the patient couldn't stop making jokes during the serious medical consultation.",
       "Researchers study witzelsucht to better understand the brain's role in humor processing and social inhibition."
     ],
-    "isFeatured": true
+    "isFeatured": true,
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/w/witze01m.mp3"
   },
   {
     "id": "xenophobe",
     "word": "Xenophobe",
-    "pronunciation": "/ˈzɛnəfəʊb/",
+    "pronunciation": "/\u02c8z\u025bn\u0259f\u0259\u028ab/",
     "definitions": [
       {
         "definition": "A person who fears or dislikes foreigners or people from different cultures.",
@@ -4287,12 +4446,13 @@
       "The xenophobe refused to try any cuisine from outside his own country.",
       "Historical xenophobes have often opposed immigration and cultural exchange.",
       "She worried that travel restrictions were turning her country into a nation of xenophobes."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/x/xenoph04.mp3"
   },
   {
     "id": "xertz",
     "word": "Xertz",
-    "pronunciation": "/zɜːts/",
+    "pronunciation": "/z\u025c\u02d0ts/",
     "definitions": [
       {
         "definition": "To gulp down quickly and greedily.",
@@ -4308,7 +4468,7 @@
   {
     "id": "yarborough",
     "word": "Yarborough",
-    "pronunciation": "/ˈjɑːrbərə/",
+    "pronunciation": "/\u02c8j\u0251\u02d0rb\u0259r\u0259/",
     "definitions": [
       {
         "definition": "A hand of cards containing no card above a nine; a worthless hand.",
@@ -4319,12 +4479,13 @@
       "He looked disappointed as he folded his yarborough without placing a bet.",
       "The probability of being dealt a yarborough in bridge is approximately 1 in 1828.",
       "She'd had nothing but yarboroughs all evening, making it her worst game in months."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/y/yarbor01.mp3"
   },
   {
     "id": "yex",
     "word": "Yex",
-    "pronunciation": "/jɛks/",
+    "pronunciation": "/j\u025bks/",
     "definitions": [
       {
         "definition": "To hiccup or sob.",
@@ -4340,7 +4501,7 @@
   {
     "id": "zaftig",
     "word": "Zaftig",
-    "pronunciation": "/ˈzɑːftɪɡ/",
+    "pronunciation": "/\u02c8z\u0251\u02d0ft\u026a\u0261/",
     "definitions": [
       {
         "definition": "(Of a woman) having a full, rounded figure; pleasingly plump.",
@@ -4351,12 +4512,13 @@
       "The painter was known for his portraits of zaftig women, a contrast to the fashion industry's ideals.",
       "Historical beauty standards often preferred zaftig figures, as evidenced in Renaissance art.",
       "The actress embraced her zaftig physique rather than pursuing the industry's typical slender aesthetic."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/z/zaftig05.mp3"
   },
   {
     "id": "zemblanity",
     "word": "Zemblanity",
-    "pronunciation": "/zɛmˈblænɪti/",
+    "pronunciation": "/z\u025bm\u02c8bl\u00e6n\u026ati/",
     "definitions": [
       {
         "definition": "The opposite of serendipity; making unhappy, unlucky discoveries by design; the faculty of making unhappy discoveries by chance.",
@@ -4373,7 +4535,7 @@
   {
     "id": "zenzizenzizenzic",
     "word": "Zenzizenzizenzic",
-    "pronunciation": "/zɛnˌzɪzɛnˌzɪˈzɛnzɪk/",
+    "pronunciation": "/z\u025bn\u02ccz\u026az\u025bn\u02ccz\u026a\u02c8z\u025bnz\u026ak/",
     "definitions": [
       {
         "definition": "The eighth power of a number.",
@@ -4381,7 +4543,7 @@
       }
     ],
     "examples": [
-      "Before modern mathematical notation, mathematicians used the term zenzizenzizenzic to represent x⁸.",
+      "Before modern mathematical notation, mathematicians used the term zenzizenzizenzic to represent x\u2078.",
       "The zenzizenzizenzic of 2 is 256, which can be calculated as 2 to the power of 8.",
       "The archaic term zenzizenzizenzic appears in Robert Recorde's 1557 mathematical work 'The Whetstone of Witte.'"
     ],
@@ -4390,7 +4552,7 @@
   {
     "id": "zeugma",
     "word": "Zeugma",
-    "pronunciation": "/ˈzuːɡmə/",
+    "pronunciation": "/\u02c8zu\u02d0\u0261m\u0259/",
     "definitions": [
       {
         "definition": "A figure of speech in which a word applies to two others in different senses or to two others of which it semantically suits only one.",
@@ -4401,12 +4563,13 @@
       "The classic example of zeugma is 'She broke his car and his heart.'",
       "The headline used zeugma cleverly: 'Politician Loses Election and Mind.'",
       "Skilled comedians often employ zeugma to create unexpected humorous connections."
-    ]
+    ],
+    "audioUrl": "https://media.merriam-webster.com/audio/prons/en/us/mp3/z/zeugma01.mp3"
   },
   {
     "id": "zoanthropy",
     "word": "Zoanthropy",
-    "pronunciation": "/zoʊˈænθrəpi/",
+    "pronunciation": "/zo\u028a\u02c8\u00e6n\u03b8r\u0259pi/",
     "definitions": [
       {
         "definition": "A delusion in which one believes oneself to be an animal.",
@@ -4422,7 +4585,7 @@
   {
     "id": "zugzwang",
     "word": "Zugzwang",
-    "pronunciation": "/ˈtsuːktsvaŋ/",
+    "pronunciation": "/\u02c8tsu\u02d0ktsva\u014b/",
     "definitions": [
       {
         "definition": "A situation, especially in chess, where a player is compelled to make a move that will worsen their position.",
@@ -4441,4 +4604,3 @@
     "isFeatured": true
   }
 ]
-
