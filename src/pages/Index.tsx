@@ -51,10 +51,10 @@ const Index = () => {
     <div className="min-h-screen">
       {/* Hero section - minimalist with daily word */}
       <section className="pt-32 pb-20 relative">
-        <div className="absolute inset-0 bg-gradient-to-br from-blue-50 to-white -z-10" />
+        <div className="absolute inset-0 bg-gradient-to-br from-blue-50 to-white dark:from-gray-900 dark:to-gray-950 -z-10" />
         <div className="container px-4 mx-auto max-w-6xl">
           <div className="opacity-0 animate-on-load">
-            <span className="px-3 py-1 text-sm font-medium rounded-full bg-blue-100 text-blue-800 mb-6 inline-block">
+            <span className="px-3 py-1 text-sm font-medium rounded-full bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-100 mb-6 inline-block">
               Word of the Day
             </span>
           </div>
@@ -72,7 +72,7 @@ const Index = () => {
       </section>
 
       {/* Random words section */}
-      <section className="py-20 bg-white relative">
+      <section className="py-20 bg-background relative">
         <div className="container px-4 mx-auto max-w-6xl">
           <div className="flex justify-between items-end mb-10">
             <div>
@@ -96,7 +96,7 @@ const Index = () => {
       </section>
 
       {/* Footer */}
-      <footer className="py-10 bg-white border-t border-border">
+      <footer className="py-10 bg-background border-t border-border">
         <div className="container px-4 mx-auto max-w-6xl">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center space-x-2 mb-4 md:mb-0">

@@ -95,7 +95,7 @@
   }
 
   .glass-panel {
-    @apply bg-white/70 dark:bg-black/70 backdrop-blur-md rounded-xl border border-white/20 dark:border-black/20 shadow-lg;
+    @apply bg-white/70 dark:bg-gray-900/70 backdrop-blur-md rounded-xl border border-white/20 dark:border-gray-800/30 shadow-lg;
   }
 
   .word-card {

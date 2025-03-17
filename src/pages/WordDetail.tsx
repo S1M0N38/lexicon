@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import { useParams, useNavigate } from "react-router-dom";
 import { ArrowLeft } from "lucide-react";
 import words from "@/data/words";
@@ -8,7 +8,6 @@ import { cn } from "@/lib/utils";
 const WordDetail = () => {
   const { wordId } = useParams<{ wordId: string }>();
   const navigate = useNavigate();
-  const [isLoading, setIsLoading] = useState(true);
 
   const word = words.find((w) => w.id === wordId);
 
@@ -16,28 +15,16 @@ const WordDetail = () => {
     if (!word) {
       // If word not found, redirect to 404
       navigate("/404", { replace: true });
-      return;
     }
-
-    // Simplified loading state management
-    const timer = setTimeout(() => {
-      setIsLoading(false);
-    }, 300);
-
-    return () => clearTimeout(timer);
   }, [word, navigate]);
 
-  if (isLoading || !word) {
-    return (
-      <div className="min-h-screen pt-32 pb-20 flex items-center justify-center">
-        <div className="animate-pulse h-4 w-24 bg-gray-200 rounded"></div>
-      </div>
-    );
+  if (!word) {
+    return null; // Return null instead of loading state
   }
 
   return (
     <div className="min-h-screen pt-32 pb-20 relative">
-      <div className="absolute inset-0 bg-gradient-to-br from-blue-50 to-white -z-10" />
+      <div className="absolute inset-0 bg-gradient-to-br from-blue-50 to-white dark:from-gray-900 dark:to-gray-950 -z-10" />
       <div className="container px-4 mx-auto max-w-4xl">
         <button
           onClick={() => navigate(-1)}

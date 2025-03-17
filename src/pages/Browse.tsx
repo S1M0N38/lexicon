@@ -15,7 +15,7 @@ const Browse = () => {
   }, []);
 
   return (
-    <div className="min-h-screen pt-32 pb-20">
+    <div className="min-h-screen pt-32 pb-20 bg-background">
       <div className="container px-4 mx-auto max-w-6xl">
         <div className="max-w-2xl mx-auto mb-12 text-center opacity-0 animate-on-load">
           <span className="px-3 py-1 text-sm font-medium rounded-full bg-secondary text-secondary-foreground mb-3 inline-block">

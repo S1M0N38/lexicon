@@ -30,6 +30,7 @@ const Navbar: React.FC = () => {
           : "bg-transparent",
       )}
     >
+      {" "}
       <div className="container mx-auto px-4 flex items-center justify-between">
         <Link
           to="/"
