@@ -1,65 +1,61 @@
 # Lexicon
 
-## How can I edit this code?
+A clean, elegant website for discovering beautiful, rare, and unusual English words.
 
-There are several ways of editing your application.
+![Lexicon Screenshot](https://raw.githubusercontent.com/S1M0N38/lexicon/main/screenshot.png)
 
-**Use Lovable**
+## Overview
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/98b3dacc-c2a3-44fa-952a-558e4f689113) and start prompting.
+Lexicon is a responsive web application designed to help users expand their vocabulary with uncommon English words. It features:
 
-Changes made via Lovable will be committed automatically to this repo.
+- Daily word showcase with definition and example usage
+- Browse page to explore the full word collection
+- Detailed word pages with pronunciations, multiple definitions, and example sentences
+- Clean, minimalist UI with smooth animations
+- Responsive design that works beautifully on all devices
+- Light/dark mode that follows system preferences
 
-**Use your preferred IDE**
+## Live Demo
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Visit the live site: [https://s1m0n38.github.io/lexicon](https://s1m0n38.github.io/lexicon)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## An Experiment in Vibe Coding
 
-Follow these steps:
+This project was created as an experiment in "vibe coding" - an AI-dependent programming paradigm where a person describes a problem to an LLM (like Claude) and the AI generates software solutions.
+
+For more information about vibe coding, see the [Wikipedia article](https://en.wikipedia.org/wiki/Vibe_coding).
+
+### Development Process
+
+As someone with little JavaScript/TypeScript/React experience who primarily works with Python for data analysis, I wanted to test how feasible it would be to create a fully-functional, aesthetically pleasing website with minimal prior knowledge of these technologies. Here's how the project came together:
+
+1. Started with Lovable (free tier) for initial setup (~15 minutes)
+2. Imported the repository to Claude for further development
+3. Created a GitHub action for automatic deployment to GitHub Pages (~5 minutes)
+4. Generated word data using Python scripts (~30 minutes)
+5. Refined the application with Claude and fixed bugs (~40 minutes)
+6. Added pronunciation audio features (~40 minutes)
+
+Total development time: ~2.5 hours
+
+## Local Development
+
+To run this project locally:
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# Clone the repository
+git clone https://github.com/S1M0N38/lexicon.git
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Navigate to the project directory
+cd lexicon
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start the development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+## Deployment
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/98b3dacc-c2a3-44fa-952a-558e4f689113) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+The project is configured for automatic deployment to GitHub Pages using GitHub Actions. Any push to the main branch will trigger a new build and deployment.
