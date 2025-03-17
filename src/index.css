@@ -1,7 +1,6 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
-@import url('https://rsms.me/inter/inter.css');
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap");
+@import url("https://rsms.me/inter/inter.css");
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap");
 
 @tailwind base;
 @tailwind components;
@@ -94,15 +93,15 @@
     -moz-osx-font-smoothing: grayscale;
     overflow-x: hidden;
   }
-  
+
   .glass-panel {
     @apply bg-white/70 dark:bg-black/70 backdrop-blur-md rounded-xl border border-white/20 dark:border-black/20 shadow-lg;
   }
-  
+
   .word-card {
     @apply transition-transform duration-300 ease-out;
   }
-  
+
   .word-card:hover {
     @apply transform translate-y-[-5px];
   }
@@ -110,28 +109,28 @@
   .page-transition-enter {
     @apply opacity-0;
   }
-  
+
   .page-transition-enter-active {
     @apply opacity-100 transition-opacity duration-300;
   }
-  
+
   .page-transition-exit {
     @apply opacity-100;
   }
-  
+
   .page-transition-exit-active {
     @apply opacity-0 transition-opacity duration-300;
   }
-  
+
   .animate-on-load {
     @apply opacity-0 transition-all duration-300 ease-out;
   }
-  
+
   .animate-slide-up {
     @apply opacity-100 translate-y-0;
     animation: slideUp 0.5s ease-out forwards;
   }
-  
+
   @keyframes slideUp {
     from {
       transform: translateY(20px);

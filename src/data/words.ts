@@ -1,8 +1,15 @@
-import words from './words.json';
+import words from "./words.json";
 
 export interface WordDefinition {
   definition: string;
-  partOfSpeech: 'noun' | 'verb' | 'adjective' | 'adverb' | 'preposition' | 'conjunction' | 'interjection';
+  partOfSpeech:
+    | "noun"
+    | "verb"
+    | "adjective"
+    | "adverb"
+    | "preposition"
+    | "conjunction"
+    | "interjection";
 }
 
 export interface Word {

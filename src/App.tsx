@@ -12,7 +12,7 @@ import Navbar from "./components/Navbar";
 const queryClient = new QueryClient();
 
 // Get the base URL from the environment or use '/' for development
-const baseUrl = import.meta.env.BASE_URL || '/';
+const baseUrl = import.meta.env.BASE_URL || "/";
 
 const App = () => (
   <QueryClientProvider client={queryClient}>

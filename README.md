@@ -1,8 +1,4 @@
-# Welcome to your Lovable project
-
-## Project info
-
-**URL**: https://lovable.dev/projects/98b3dacc-c2a3-44fa-952a-558e4f689113
+# Lexicon
 
 ## How can I edit this code?
 
