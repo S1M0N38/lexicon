@@ -1,3 +1,4 @@
+
 import { useEffect, useRef, useState } from "react";
 import { useParams, useNavigate } from "react-router-dom";
 import { ArrowLeft, Volume2 } from "lucide-react";
@@ -58,22 +59,22 @@ const WordDetail = () => {
   }
 
   return (
-    <div className="min-h-screen pt-32 pb-20 relative">
-      <div className="absolute inset-0 bg-gradient-to-br from-blue-50 to-white dark:from-gray-900 dark:to-gray-950 -z-10" />
+    <div className="min-h-screen pt-20 pb-16 relative">
+      <div className="absolute inset-0 bg-gradient-to-b from-blue-50 to-white dark:from-gray-900 dark:to-gray-950 -z-10" />
       <div className="container px-4 mx-auto max-w-4xl">
         <button
           onClick={() => navigate(-1)}
-          className="flex items-center space-x-2 text-sm text-muted-foreground hover:text-foreground transition-colors mb-8 animate-fade-in"
+          className="flex items-center space-x-2 text-sm text-muted-foreground hover:text-foreground transition-colors mb-6"
         >
           <ArrowLeft className="h-4 w-4" />
           <span>Back</span>
         </button>
 
-        <GlassPanel className="mb-10 animate-fade-in">
+        <GlassPanel className="mb-8">
           <span className="px-3 py-1 text-sm font-medium rounded-full bg-secondary text-secondary-foreground mb-4 inline-block">
             {word.definitions[0].partOfSpeech}
           </span>
-          <h1 className="font-serif text-4xl md:text-5xl mb-3">{word.word}</h1>
+          <h1 className="font-serif text-4xl mb-3">{word.word}</h1>
 
           <div className="flex items-center mb-6">
             <p className="text-muted-foreground">{word.pronunciation}</p>
@@ -121,14 +122,14 @@ const WordDetail = () => {
           </div>
         </GlassPanel>
 
-        <div className="space-y-6 animate-fade-in">
-          <h2 className="text-xl font-serif mb-4">Examples</h2>
-          <div className="space-y-4">
+        <div className="space-y-4">
+          <h2 className="text-xl font-serif mb-3">Examples</h2>
+          <div className="space-y-3">
             {word.examples.map((example, index) => (
               <GlassPanel
                 key={index}
                 className={cn(
-                  "border-l-4 transition-all",
+                  "border-l-4",
                   index % 2 === 0
                     ? "border-l-primary/70"
                     : "border-l-blue-400/70",

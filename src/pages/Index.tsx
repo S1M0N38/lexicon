@@ -1,4 +1,5 @@
-import React, { useEffect } from "react";
+
+import React from "react";
 import { Link } from "react-router-dom";
 import WordCard from "@/components/WordCard";
 import WordList from "@/components/WordList";
@@ -36,58 +37,42 @@ const Index = () => {
   // Get the daily word
   const dailyWord = getDailyWord();
 
-  useEffect(() => {
-    // Animation for page elements on load
-    const elements = document.querySelectorAll(".animate-on-load");
-    elements.forEach((element, index) => {
-      setTimeout(() => {
-        element.classList.add("animate-slide-up");
-        element.classList.remove("opacity-0");
-      }, 100 * index);
-    });
-  }, []);
-
   return (
     <div className="min-h-screen">
       {/* Hero section - minimalist with daily word */}
-      <section className="pt-32 pb-20 relative">
-        <div className="absolute inset-0 bg-gradient-to-br from-blue-50 to-white dark:from-gray-900 dark:to-gray-950 -z-10" />
+      <section className="pt-24 pb-16 relative">
+        <div className="absolute inset-0 bg-gradient-to-b from-blue-50 to-white dark:from-gray-900 dark:to-gray-950 -z-10" />
         <div className="container px-4 mx-auto max-w-6xl">
-          <div className="opacity-0 animate-on-load">
-            <span className="px-3 py-1 text-sm font-medium rounded-full bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-100 mb-6 inline-block">
+          <div>
+            <span className="px-3 py-1 text-sm font-medium rounded-full bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-100 mb-5 inline-block">
               Word of the Day
             </span>
           </div>
-          <h1 className="font-serif text-4xl md:text-6xl mb-4 opacity-0 animate-on-load">
+          <h1 className="font-serif text-3xl md:text-5xl mb-4">
             Expand your lexicon
           </h1>
-          <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mb-12 opacity-0 animate-on-load">
+          <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mb-10">
             Discover beautiful, rare, and unusual English words.
           </p>
 
-          <div className="opacity-0 animate-on-load max-w-2xl mx-auto">
+          <div className="max-w-2xl mx-auto">
             <WordCard word={dailyWord} featured className="mb-8" />
           </div>
         </div>
       </section>
 
       {/* Random words section */}
-      <section className="py-20 bg-background relative">
+      <section className="py-12 bg-background relative">
         <div className="container px-4 mx-auto max-w-6xl">
-          <div className="flex justify-between items-end mb-10">
+          <div className="flex justify-between items-end mb-8">
             <div>
-              <span className="px-3 py-1 text-sm font-medium rounded-full bg-secondary text-secondary-foreground mb-3 inline-block">
-                Random Words
-              </span>
-              <h2 className="font-serif text-2xl md:text-3xl">
-                Discover more words
-              </h2>
+              <h2 className="font-serif text-2xl">Discover more words</h2>
             </div>
             <Link
               to="/browse"
               className="text-primary hover:text-primary/80 text-sm font-medium transition-colors"
             >
-              View all words →
+              View all →
             </Link>
           </div>
 
@@ -96,7 +81,7 @@ const Index = () => {
       </section>
 
       {/* Footer */}
-      <footer className="py-10 bg-background border-t border-border">
+      <footer className="py-8 bg-background border-t border-border">
         <div className="container px-4 mx-auto max-w-6xl">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center space-x-2 mb-4 md:mb-0">
