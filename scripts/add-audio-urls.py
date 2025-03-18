@@ -11,6 +11,9 @@
 # Finally check if the audio file exists with a get request
 
 
+# TODO: maybe in the future consider to use Wikidictionary API
+
+
 import time
 import json
 import requests
