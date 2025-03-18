@@ -1,3 +1,4 @@
+
 import React from "react";
 import { Link } from "react-router-dom";
 import { Word } from "@/data/words";
@@ -19,6 +20,7 @@ const WordCard: React.FC<WordCardProps> = ({
     <Link
       to={`/word/${word.id}`}
       className={cn("block word-card", featured ? "h-full" : "", className)}
+      prefetch="intent"
     >
       <GlassPanel
         className={cn(
@@ -59,4 +61,4 @@ const WordCard: React.FC<WordCardProps> = ({
   );
 };
 
-export default WordCard;
+export default React.memo(WordCard);

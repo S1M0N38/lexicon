@@ -1,5 +1,5 @@
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState, useCallback } from "react";
 import { useParams, useNavigate } from "react-router-dom";
 import { ArrowLeft, Volume2 } from "lucide-react";
 import words from "@/data/words";
@@ -21,7 +21,7 @@ const WordDetail = () => {
     }
   }, [word, navigate]);
 
-  const playAudio = () => {
+  const playAudio = useCallback(() => {
     if (!word?.audioUrl) return;
 
     if (!audioRef.current) {
@@ -42,7 +42,7 @@ const WordDetail = () => {
       });
       setIsPlaying(true);
     }
-  };
+  }, [word, isPlaying]);
 
   // Cleanup audio on unmount
   useEffect(() => {
@@ -59,12 +59,16 @@ const WordDetail = () => {
   }
 
   return (
-    <div className="min-h-screen pt-20 pb-16 relative">
-      <div className="absolute inset-0 bg-gradient-to-b from-blue-50 to-white dark:from-gray-900 dark:to-gray-950 -z-10" />
+    <div className="min-h-screen pt-20 pb-16">
+      <div 
+        className="absolute inset-0 bg-gradient-to-b from-blue-50 to-white dark:from-gray-900 dark:to-gray-950 -z-10"
+        style={{ contain: "strict" }}
+      />
       <div className="container px-4 mx-auto max-w-4xl">
         <button
           onClick={() => navigate(-1)}
           className="flex items-center space-x-2 text-sm text-muted-foreground hover:text-foreground transition-colors mb-6"
+          type="button"
         >
           <ArrowLeft className="h-4 w-4" />
           <span>Back</span>
@@ -89,6 +93,7 @@ const WordDetail = () => {
                 )}
                 aria-label="Play pronunciation"
                 title="Listen to pronunciation"
+                type="button"
               >
                 <Volume2 className="h-4 w-4" />
               </button>

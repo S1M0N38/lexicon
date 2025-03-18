@@ -1,5 +1,5 @@
 
-import React from "react";
+import React, { useMemo } from "react";
 import { Link } from "react-router-dom";
 import WordCard from "@/components/WordCard";
 import WordList from "@/components/WordList";
@@ -8,13 +8,13 @@ import { BookOpen } from "lucide-react";
 
 const Index = () => {
   // Get random words (not featured)
-  const getRandomWords = (count = 3) => {
+  const randomWords = useMemo(() => {
     const shuffled = [...words].sort(() => 0.5 - Math.random());
-    return shuffled.slice(0, count);
-  };
+    return shuffled.slice(0, 3);
+  }, []);
 
   // Get a daily word based on the date
-  const getDailyWord = () => {
+  const dailyWord = useMemo(() => {
     // Get current date and use it as a seed
     const today = new Date();
     const dateString = `${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}`;
@@ -29,19 +29,16 @@ const Index = () => {
     // Use absolute value of hash to get a positive index
     const index = Math.abs(hash) % words.length;
     return words[index];
-  };
-
-  // Select random words on each render
-  const randomWords = getRandomWords();
-
-  // Get the daily word
-  const dailyWord = getDailyWord();
+  }, []);
 
   return (
     <div className="min-h-screen">
       {/* Hero section - minimalist with daily word */}
-      <section className="pt-24 pb-16 relative">
-        <div className="absolute inset-0 bg-gradient-to-b from-blue-50 to-white dark:from-gray-900 dark:to-gray-950 -z-10" />
+      <section className="pt-24 pb-12 relative">
+        <div 
+          className="absolute inset-0 bg-gradient-to-b from-blue-50 to-white dark:from-gray-900 dark:to-gray-950 -z-10"
+          style={{ contain: "strict" }}
+        />
         <div className="container px-4 mx-auto max-w-6xl">
           <div>
             <span className="px-3 py-1 text-sm font-medium rounded-full bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-100 mb-5 inline-block">
@@ -62,7 +59,7 @@ const Index = () => {
       </section>
 
       {/* Random words section */}
-      <section className="py-12 bg-background relative">
+      <section className="py-12 bg-background">
         <div className="container px-4 mx-auto max-w-6xl">
           <div className="flex justify-between items-end mb-8">
             <div>
@@ -98,4 +95,4 @@ const Index = () => {
   );
 };
 
-export default Index;
+export default React.memo(Index);

@@ -1,3 +1,4 @@
+
 import React from "react";
 import { Word } from "@/data/words";
 import WordCard from "./WordCard";
@@ -19,4 +20,4 @@ const WordList: React.FC<WordListProps> = ({ words, className }) => {
   );
 };
 
-export default WordList;
+export default React.memo(WordList);

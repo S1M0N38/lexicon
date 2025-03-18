@@ -9,6 +9,9 @@ export default {
     "./app/**/*.{ts,tsx}",
     "./src/**/*.{ts,tsx}",
   ],
+  future: {
+    hoverOnlyWhenSupported: true,
+  },
   prefix: "",
   theme: {
     container: {
@@ -89,10 +92,10 @@ export default {
         "accordion-up": "accordion-up 0.2s ease-out",
       },
       transitionDuration: {
-        '200': '200ms',
+        '150': '150ms',
       },
       transitionTimingFunction: {
-        'ease-in-out': 'cubic-bezier(0.4, 0, 0.2, 1)',
+        'ease-out': 'cubic-bezier(0, 0, 0.2, 1)',
       },
     },
   },

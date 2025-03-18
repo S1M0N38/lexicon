@@ -9,7 +9,17 @@ interface GlassPanelProps {
 }
 
 const GlassPanel: React.FC<GlassPanelProps> = ({ children, className }) => {
-  return <div className={cn("glass-panel p-5", className)}>{children}</div>;
+  return (
+    <div 
+      className={cn("glass-panel p-5", className)}
+      style={{ 
+        contain: "content",
+        willChange: "transform" 
+      }}
+    >
+      {children}
+    </div>
+  );
 };
 
-export default GlassPanel;
+export default React.memo(GlassPanel);
